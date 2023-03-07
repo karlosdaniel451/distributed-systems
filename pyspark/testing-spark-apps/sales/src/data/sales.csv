@@ -1,0 +1,5111 @@
+date,store_location,number_of_sales
+2022-01-01,Bangalore,12
+2022-01-01,Amsterdam,11
+2022-01-01,Warsaw,1
+2022-01-01,London,5
+2022-01-01,Paris,8
+2022-01-01,New York,9
+2022-01-01,Los Angeles,17
+2022-01-01,São Paulo,8
+2022-01-01,Buenos Aires,12
+2022-01-01,Melbourne,9
+2022-01-01,Shanghai,7
+2022-01-01,Tokyo,2
+2022-01-01,Seoul,7
+2022-01-01,Johannesburg,13
+2022-01-02,Bangalore,8
+2022-01-02,Amsterdam,23
+2022-01-02,Warsaw,13
+2022-01-02,London,4
+2022-01-02,Paris,15
+2022-01-02,New York,5
+2022-01-02,Los Angeles,9
+2022-01-02,São Paulo,5
+2022-01-02,Buenos Aires,5
+2022-01-02,Melbourne,6
+2022-01-02,Shanghai,12
+2022-01-02,Tokyo,7
+2022-01-02,Seoul,5
+2022-01-02,Johannesburg,10
+2022-01-03,Bangalore,1
+2022-01-03,Amsterdam,19
+2022-01-03,Warsaw,17
+2022-01-03,London,8
+2022-01-03,Paris,5
+2022-01-03,New York,15
+2022-01-03,Los Angeles,13
+2022-01-03,São Paulo,4
+2022-01-03,Buenos Aires,6
+2022-01-03,Melbourne,5
+2022-01-03,Shanghai,7
+2022-01-03,Tokyo,10
+2022-01-03,Seoul,3
+2022-01-03,Johannesburg,7
+2022-01-04,Bangalore,7
+2022-01-04,Amsterdam,12
+2022-01-04,Warsaw,6
+2022-01-04,London,8
+2022-01-04,Paris,9
+2022-01-04,New York,16
+2022-01-04,Los Angeles,1
+2022-01-04,São Paulo,15
+2022-01-04,Buenos Aires,16
+2022-01-04,Melbourne,5
+2022-01-04,Shanghai,5
+2022-01-04,Tokyo,16
+2022-01-04,Seoul,5
+2022-01-04,Johannesburg,10
+2022-01-05,Bangalore,10
+2022-01-05,Amsterdam,19
+2022-01-05,Warsaw,12
+2022-01-05,London,20
+2022-01-05,Paris,10
+2022-01-05,New York,9
+2022-01-05,Los Angeles,2
+2022-01-05,São Paulo,11
+2022-01-05,Buenos Aires,8
+2022-01-05,Melbourne,13
+2022-01-05,Shanghai,1
+2022-01-05,Tokyo,14
+2022-01-05,Seoul,7
+2022-01-05,Johannesburg,11
+2022-01-06,Bangalore,5
+2022-01-06,Amsterdam,3
+2022-01-06,Warsaw,9
+2022-01-06,London,14
+2022-01-06,Paris,6
+2022-01-06,New York,20
+2022-01-06,Los Angeles,11
+2022-01-06,São Paulo,5
+2022-01-06,Buenos Aires,9
+2022-01-06,Melbourne,13
+2022-01-06,Shanghai,10
+2022-01-06,Tokyo,17
+2022-01-06,Seoul,4
+2022-01-06,Johannesburg,10
+2022-01-07,Bangalore,11
+2022-01-07,Amsterdam,6
+2022-01-07,Warsaw,8
+2022-01-07,London,5
+2022-01-07,Paris,20
+2022-01-07,New York,10
+2022-01-07,Los Angeles,4
+2022-01-07,São Paulo,3
+2022-01-07,Buenos Aires,8
+2022-01-07,Melbourne,11
+2022-01-07,Shanghai,11
+2022-01-07,Tokyo,10
+2022-01-07,Seoul,6
+2022-01-07,Johannesburg,9
+2022-01-08,Bangalore,3
+2022-01-08,Amsterdam,1
+2022-01-08,Warsaw,16
+2022-01-08,London,11
+2022-01-08,Paris,7
+2022-01-08,New York,4
+2022-01-08,Los Angeles,17
+2022-01-08,São Paulo,9
+2022-01-08,Buenos Aires,7
+2022-01-08,Melbourne,4
+2022-01-08,Shanghai,13
+2022-01-08,Tokyo,6
+2022-01-08,Seoul,16
+2022-01-08,Johannesburg,10
+2022-01-09,Bangalore,9
+2022-01-09,Amsterdam,3
+2022-01-09,Warsaw,10
+2022-01-09,London,12
+2022-01-09,Paris,11
+2022-01-09,New York,10
+2022-01-09,Los Angeles,1
+2022-01-09,São Paulo,15
+2022-01-09,Buenos Aires,5
+2022-01-09,Melbourne,7
+2022-01-09,Shanghai,14
+2022-01-09,Tokyo,5
+2022-01-09,Seoul,10
+2022-01-09,Johannesburg,10
+2022-01-10,Bangalore,9
+2022-01-10,Amsterdam,9
+2022-01-10,Warsaw,11
+2022-01-10,London,6
+2022-01-10,Paris,13
+2022-01-10,New York,12
+2022-01-10,Los Angeles,14
+2022-01-10,São Paulo,3
+2022-01-10,Buenos Aires,12
+2022-01-10,Melbourne,15
+2022-01-10,Shanghai,18
+2022-01-10,Tokyo,10
+2022-01-10,Seoul,11
+2022-01-10,Johannesburg,15
+2022-01-11,Bangalore,4
+2022-01-11,Amsterdam,13
+2022-01-11,Warsaw,9
+2022-01-11,London,12
+2022-01-11,Paris,7
+2022-01-11,New York,11
+2022-01-11,Los Angeles,14
+2022-01-11,São Paulo,15
+2022-01-11,Buenos Aires,5
+2022-01-11,Melbourne,11
+2022-01-11,Shanghai,19
+2022-01-11,Tokyo,9
+2022-01-11,Seoul,19
+2022-01-11,Johannesburg,11
+2022-01-12,Bangalore,7
+2022-01-12,Amsterdam,11
+2022-01-12,Warsaw,7
+2022-01-12,London,8
+2022-01-12,Paris,11
+2022-01-12,New York,10
+2022-01-12,Los Angeles,19
+2022-01-12,São Paulo,7
+2022-01-12,Buenos Aires,21
+2022-01-12,Melbourne,9
+2022-01-12,Shanghai,13
+2022-01-12,Tokyo,20
+2022-01-12,Seoul,11
+2022-01-12,Johannesburg,10
+2022-01-13,Bangalore,16
+2022-01-13,Amsterdam,4
+2022-01-13,Warsaw,11
+2022-01-13,London,10
+2022-01-13,Paris,12
+2022-01-13,New York,14
+2022-01-13,Los Angeles,10
+2022-01-13,São Paulo,1
+2022-01-13,Buenos Aires,16
+2022-01-13,Melbourne,9
+2022-01-13,Shanghai,15
+2022-01-13,Tokyo,6
+2022-01-13,Seoul,9
+2022-01-13,Johannesburg,16
+2022-01-14,Bangalore,4
+2022-01-14,Amsterdam,12
+2022-01-14,Warsaw,9
+2022-01-14,London,9
+2022-01-14,Paris,17
+2022-01-14,New York,4
+2022-01-14,Los Angeles,12
+2022-01-14,São Paulo,1
+2022-01-14,Buenos Aires,6
+2022-01-14,Melbourne,12
+2022-01-14,Shanghai,12
+2022-01-14,Tokyo,13
+2022-01-14,Seoul,14
+2022-01-14,Johannesburg,2
+2022-01-15,Bangalore,13
+2022-01-15,Amsterdam,18
+2022-01-15,Warsaw,10
+2022-01-15,London,11
+2022-01-15,Paris,15
+2022-01-15,New York,2
+2022-01-15,Los Angeles,12
+2022-01-15,São Paulo,6
+2022-01-15,Buenos Aires,14
+2022-01-15,Melbourne,11
+2022-01-15,Shanghai,12
+2022-01-15,Tokyo,5
+2022-01-15,Seoul,4
+2022-01-15,Johannesburg,10
+2022-01-16,Bangalore,2
+2022-01-16,Amsterdam,6
+2022-01-16,Warsaw,7
+2022-01-16,London,1
+2022-01-16,Paris,12
+2022-01-16,New York,8
+2022-01-16,Los Angeles,8
+2022-01-16,São Paulo,24
+2022-01-16,Buenos Aires,7
+2022-01-16,Melbourne,3
+2022-01-16,Shanghai,11
+2022-01-16,Tokyo,14
+2022-01-16,Seoul,12
+2022-01-16,Johannesburg,16
+2022-01-17,Bangalore,7
+2022-01-17,Amsterdam,6
+2022-01-17,Warsaw,1
+2022-01-17,London,12
+2022-01-17,Paris,3
+2022-01-17,New York,10
+2022-01-17,Los Angeles,9
+2022-01-17,São Paulo,10
+2022-01-17,Buenos Aires,9
+2022-01-17,Melbourne,8
+2022-01-17,Shanghai,12
+2022-01-17,Tokyo,1
+2022-01-17,Seoul,9
+2022-01-17,Johannesburg,18
+2022-01-18,Bangalore,16
+2022-01-18,Amsterdam,3
+2022-01-18,Warsaw,5
+2022-01-18,London,20
+2022-01-18,Paris,17
+2022-01-18,New York,12
+2022-01-18,Los Angeles,8
+2022-01-18,São Paulo,4
+2022-01-18,Buenos Aires,9
+2022-01-18,Melbourne,13
+2022-01-18,Shanghai,15
+2022-01-18,Tokyo,9
+2022-01-18,Seoul,1
+2022-01-18,Johannesburg,10
+2022-01-19,Bangalore,11
+2022-01-19,Amsterdam,9
+2022-01-19,Warsaw,1
+2022-01-19,London,17
+2022-01-19,Paris,10
+2022-01-19,New York,12
+2022-01-19,Los Angeles,7
+2022-01-19,São Paulo,14
+2022-01-19,Buenos Aires,6
+2022-01-19,Melbourne,15
+2022-01-19,Shanghai,4
+2022-01-19,Tokyo,6
+2022-01-19,Seoul,12
+2022-01-19,Johannesburg,3
+2022-01-20,Bangalore,12
+2022-01-20,Amsterdam,8
+2022-01-20,Warsaw,11
+2022-01-20,London,5
+2022-01-20,Paris,6
+2022-01-20,New York,9
+2022-01-20,Los Angeles,12
+2022-01-20,São Paulo,10
+2022-01-20,Buenos Aires,13
+2022-01-20,Melbourne,19
+2022-01-20,Shanghai,14
+2022-01-20,Tokyo,15
+2022-01-20,Seoul,8
+2022-01-20,Johannesburg,12
+2022-01-21,Bangalore,18
+2022-01-21,Amsterdam,9
+2022-01-21,Warsaw,19
+2022-01-21,London,7
+2022-01-21,Paris,12
+2022-01-21,New York,9
+2022-01-21,Los Angeles,3
+2022-01-21,São Paulo,17
+2022-01-21,Buenos Aires,12
+2022-01-21,Melbourne,15
+2022-01-21,Shanghai,9
+2022-01-21,Tokyo,17
+2022-01-21,Seoul,9
+2022-01-21,Johannesburg,8
+2022-01-22,Bangalore,2
+2022-01-22,Amsterdam,17
+2022-01-22,Warsaw,7
+2022-01-22,London,13
+2022-01-22,Paris,2
+2022-01-22,New York,10
+2022-01-22,Los Angeles,3
+2022-01-22,São Paulo,11
+2022-01-22,Buenos Aires,1
+2022-01-22,Melbourne,10
+2022-01-22,Shanghai,15
+2022-01-22,Tokyo,8
+2022-01-22,Seoul,20
+2022-01-22,Johannesburg,4
+2022-01-23,Bangalore,12
+2022-01-23,Amsterdam,12
+2022-01-23,Warsaw,8
+2022-01-23,London,5
+2022-01-23,Paris,14
+2022-01-23,New York,24
+2022-01-23,Los Angeles,8
+2022-01-23,São Paulo,8
+2022-01-23,Buenos Aires,13
+2022-01-23,Melbourne,8
+2022-01-23,Shanghai,1
+2022-01-23,Tokyo,12
+2022-01-23,Seoul,16
+2022-01-23,Johannesburg,11
+2022-01-24,Bangalore,13
+2022-01-24,Amsterdam,5
+2022-01-24,Warsaw,4
+2022-01-24,London,18
+2022-01-24,Paris,11
+2022-01-24,New York,9
+2022-01-24,Los Angeles,13
+2022-01-24,São Paulo,9
+2022-01-24,Buenos Aires,10
+2022-01-24,Melbourne,6
+2022-01-24,Shanghai,15
+2022-01-24,Tokyo,14
+2022-01-24,Seoul,7
+2022-01-24,Johannesburg,6
+2022-01-25,Bangalore,4
+2022-01-25,Amsterdam,13
+2022-01-25,Warsaw,13
+2022-01-25,London,10
+2022-01-25,Paris,17
+2022-01-25,New York,13
+2022-01-25,Los Angeles,9
+2022-01-25,São Paulo,2
+2022-01-25,Buenos Aires,1
+2022-01-25,Melbourne,13
+2022-01-25,Shanghai,2
+2022-01-25,Tokyo,14
+2022-01-25,Seoul,13
+2022-01-25,Johannesburg,10
+2022-01-26,Bangalore,15
+2022-01-26,Amsterdam,4
+2022-01-26,Warsaw,12
+2022-01-26,London,3
+2022-01-26,Paris,9
+2022-01-26,New York,14
+2022-01-26,Los Angeles,14
+2022-01-26,São Paulo,11
+2022-01-26,Buenos Aires,1
+2022-01-26,Melbourne,8
+2022-01-26,Shanghai,7
+2022-01-26,Tokyo,5
+2022-01-26,Seoul,2
+2022-01-26,Johannesburg,12
+2022-01-27,Bangalore,10
+2022-01-27,Amsterdam,17
+2022-01-27,Warsaw,11
+2022-01-27,London,9
+2022-01-27,Paris,11
+2022-01-27,New York,6
+2022-01-27,Los Angeles,11
+2022-01-27,São Paulo,14
+2022-01-27,Buenos Aires,4
+2022-01-27,Melbourne,14
+2022-01-27,Shanghai,14
+2022-01-27,Tokyo,13
+2022-01-27,Seoul,8
+2022-01-27,Johannesburg,9
+2022-01-28,Bangalore,6
+2022-01-28,Amsterdam,12
+2022-01-28,Warsaw,5
+2022-01-28,London,15
+2022-01-28,Paris,9
+2022-01-28,New York,5
+2022-01-28,Los Angeles,9
+2022-01-28,São Paulo,3
+2022-01-28,Buenos Aires,18
+2022-01-28,Melbourne,6
+2022-01-28,Shanghai,9
+2022-01-28,Tokyo,12
+2022-01-28,Seoul,15
+2022-01-28,Johannesburg,12
+2022-01-29,Bangalore,4
+2022-01-29,Amsterdam,3
+2022-01-29,Warsaw,15
+2022-01-29,London,13
+2022-01-29,Paris,3
+2022-01-29,New York,7
+2022-01-29,Los Angeles,11
+2022-01-29,São Paulo,1
+2022-01-29,Buenos Aires,3
+2022-01-29,Melbourne,15
+2022-01-29,Shanghai,9
+2022-01-29,Tokyo,13
+2022-01-29,Seoul,13
+2022-01-29,Johannesburg,14
+2022-01-30,Bangalore,14
+2022-01-30,Amsterdam,5
+2022-01-30,Warsaw,10
+2022-01-30,London,11
+2022-01-30,Paris,12
+2022-01-30,New York,8
+2022-01-30,Los Angeles,8
+2022-01-30,São Paulo,7
+2022-01-30,Buenos Aires,8
+2022-01-30,Melbourne,7
+2022-01-30,Shanghai,11
+2022-01-30,Tokyo,1
+2022-01-30,Seoul,15
+2022-01-30,Johannesburg,6
+2022-01-31,Bangalore,14
+2022-01-31,Amsterdam,19
+2022-01-31,Warsaw,11
+2022-01-31,London,7
+2022-01-31,Paris,5
+2022-01-31,New York,6
+2022-01-31,Los Angeles,9
+2022-01-31,São Paulo,7
+2022-01-31,Buenos Aires,8
+2022-01-31,Melbourne,9
+2022-01-31,Shanghai,10
+2022-01-31,Tokyo,6
+2022-01-31,Seoul,12
+2022-01-31,Johannesburg,8
+2022-02-01,Bangalore,13
+2022-02-01,Amsterdam,9
+2022-02-01,Warsaw,14
+2022-02-01,London,5
+2022-02-01,Paris,7
+2022-02-01,New York,11
+2022-02-01,Los Angeles,11
+2022-02-01,São Paulo,10
+2022-02-01,Buenos Aires,11
+2022-02-01,Melbourne,5
+2022-02-01,Shanghai,15
+2022-02-01,Tokyo,12
+2022-02-01,Seoul,12
+2022-02-01,Johannesburg,16
+2022-02-02,Bangalore,17
+2022-02-02,Amsterdam,12
+2022-02-02,Warsaw,5
+2022-02-02,London,6
+2022-02-02,Paris,13
+2022-02-02,New York,12
+2022-02-02,Los Angeles,12
+2022-02-02,São Paulo,1
+2022-02-02,Buenos Aires,2
+2022-02-02,Melbourne,17
+2022-02-02,Shanghai,8
+2022-02-02,Tokyo,14
+2022-02-02,Seoul,12
+2022-02-02,Johannesburg,6
+2022-02-03,Bangalore,1
+2022-02-03,Amsterdam,5
+2022-02-03,Warsaw,15
+2022-02-03,London,16
+2022-02-03,Paris,1
+2022-02-03,New York,16
+2022-02-03,Los Angeles,12
+2022-02-03,São Paulo,3
+2022-02-03,Buenos Aires,2
+2022-02-03,Melbourne,5
+2022-02-03,Shanghai,8
+2022-02-03,Tokyo,20
+2022-02-03,Seoul,8
+2022-02-03,Johannesburg,2
+2022-02-04,Bangalore,8
+2022-02-04,Amsterdam,16
+2022-02-04,Warsaw,9
+2022-02-04,London,11
+2022-02-04,Paris,18
+2022-02-04,New York,10
+2022-02-04,Los Angeles,15
+2022-02-04,São Paulo,12
+2022-02-04,Buenos Aires,4
+2022-02-04,Melbourne,12
+2022-02-04,Shanghai,1
+2022-02-04,Tokyo,13
+2022-02-04,Seoul,9
+2022-02-04,Johannesburg,9
+2022-02-05,Bangalore,20
+2022-02-05,Amsterdam,1
+2022-02-05,Warsaw,8
+2022-02-05,London,7
+2022-02-05,Paris,2
+2022-02-05,New York,5
+2022-02-05,Los Angeles,9
+2022-02-05,São Paulo,14
+2022-02-05,Buenos Aires,6
+2022-02-05,Melbourne,17
+2022-02-05,Shanghai,15
+2022-02-05,Tokyo,13
+2022-02-05,Seoul,14
+2022-02-05,Johannesburg,22
+2022-02-06,Bangalore,17
+2022-02-06,Amsterdam,4
+2022-02-06,Warsaw,12
+2022-02-06,London,7
+2022-02-06,Paris,8
+2022-02-06,New York,11
+2022-02-06,Los Angeles,7
+2022-02-06,São Paulo,10
+2022-02-06,Buenos Aires,16
+2022-02-06,Melbourne,11
+2022-02-06,Shanghai,11
+2022-02-06,Tokyo,15
+2022-02-06,Seoul,2
+2022-02-06,Johannesburg,14
+2022-02-07,Bangalore,7
+2022-02-07,Amsterdam,11
+2022-02-07,Warsaw,12
+2022-02-07,London,8
+2022-02-07,Paris,11
+2022-02-07,New York,11
+2022-02-07,Los Angeles,11
+2022-02-07,São Paulo,27
+2022-02-07,Buenos Aires,9
+2022-02-07,Melbourne,7
+2022-02-07,Shanghai,16
+2022-02-07,Tokyo,4
+2022-02-07,Seoul,10
+2022-02-07,Johannesburg,15
+2022-02-08,Bangalore,8
+2022-02-08,Amsterdam,10
+2022-02-08,Warsaw,4
+2022-02-08,London,11
+2022-02-08,Paris,6
+2022-02-08,New York,5
+2022-02-08,Los Angeles,9
+2022-02-08,São Paulo,5
+2022-02-08,Buenos Aires,13
+2022-02-08,Melbourne,11
+2022-02-08,Shanghai,5
+2022-02-08,Tokyo,2
+2022-02-08,Seoul,11
+2022-02-08,Johannesburg,4
+2022-02-09,Bangalore,13
+2022-02-09,Amsterdam,2
+2022-02-09,Warsaw,11
+2022-02-09,London,9
+2022-02-09,Paris,3
+2022-02-09,New York,8
+2022-02-09,Los Angeles,15
+2022-02-09,São Paulo,1
+2022-02-09,Buenos Aires,13
+2022-02-09,Melbourne,5
+2022-02-09,Shanghai,7
+2022-02-09,Tokyo,12
+2022-02-09,Seoul,14
+2022-02-09,Johannesburg,13
+2022-02-10,Bangalore,12
+2022-02-10,Amsterdam,1
+2022-02-10,Warsaw,17
+2022-02-10,London,15
+2022-02-10,Paris,2
+2022-02-10,New York,2
+2022-02-10,Los Angeles,13
+2022-02-10,São Paulo,12
+2022-02-10,Buenos Aires,17
+2022-02-10,Melbourne,5
+2022-02-10,Shanghai,9
+2022-02-10,Tokyo,11
+2022-02-10,Seoul,3
+2022-02-10,Johannesburg,10
+2022-02-11,Bangalore,5
+2022-02-11,Amsterdam,8
+2022-02-11,Warsaw,7
+2022-02-11,London,6
+2022-02-11,Paris,5
+2022-02-11,New York,4
+2022-02-11,Los Angeles,7
+2022-02-11,São Paulo,14
+2022-02-11,Buenos Aires,9
+2022-02-11,Melbourne,15
+2022-02-11,Shanghai,14
+2022-02-11,Tokyo,18
+2022-02-11,Seoul,15
+2022-02-11,Johannesburg,7
+2022-02-12,Bangalore,9
+2022-02-12,Amsterdam,8
+2022-02-12,Warsaw,3
+2022-02-12,London,15
+2022-02-12,Paris,9
+2022-02-12,New York,8
+2022-02-12,Los Angeles,4
+2022-02-12,São Paulo,8
+2022-02-12,Buenos Aires,19
+2022-02-12,Melbourne,13
+2022-02-12,Shanghai,13
+2022-02-12,Tokyo,11
+2022-02-12,Seoul,18
+2022-02-12,Johannesburg,7
+2022-02-13,Bangalore,6
+2022-02-13,Amsterdam,1
+2022-02-13,Warsaw,5
+2022-02-13,London,4
+2022-02-13,Paris,14
+2022-02-13,New York,1
+2022-02-13,Los Angeles,10
+2022-02-13,São Paulo,17
+2022-02-13,Buenos Aires,7
+2022-02-13,Melbourne,8
+2022-02-13,Shanghai,6
+2022-02-13,Tokyo,2
+2022-02-13,Seoul,10
+2022-02-13,Johannesburg,12
+2022-02-14,Bangalore,13
+2022-02-14,Amsterdam,13
+2022-02-14,Warsaw,9
+2022-02-14,London,2
+2022-02-14,Paris,8
+2022-02-14,New York,12
+2022-02-14,Los Angeles,10
+2022-02-14,São Paulo,11
+2022-02-14,Buenos Aires,9
+2022-02-14,Melbourne,5
+2022-02-14,Shanghai,3
+2022-02-14,Tokyo,8
+2022-02-14,Seoul,15
+2022-02-14,Johannesburg,6
+2022-02-15,Bangalore,5
+2022-02-15,Amsterdam,13
+2022-02-15,Warsaw,2
+2022-02-15,London,8
+2022-02-15,Paris,11
+2022-02-15,New York,18
+2022-02-15,Los Angeles,9
+2022-02-15,São Paulo,1
+2022-02-15,Buenos Aires,7
+2022-02-15,Melbourne,1
+2022-02-15,Shanghai,11
+2022-02-15,Tokyo,10
+2022-02-15,Seoul,3
+2022-02-15,Johannesburg,12
+2022-02-16,Bangalore,2
+2022-02-16,Amsterdam,8
+2022-02-16,Warsaw,16
+2022-02-16,London,4
+2022-02-16,Paris,8
+2022-02-16,New York,18
+2022-02-16,Los Angeles,1
+2022-02-16,São Paulo,3
+2022-02-16,Buenos Aires,1
+2022-02-16,Melbourne,1
+2022-02-16,Shanghai,9
+2022-02-16,Tokyo,11
+2022-02-16,Seoul,14
+2022-02-16,Johannesburg,10
+2022-02-17,Bangalore,13
+2022-02-17,Amsterdam,19
+2022-02-17,Warsaw,6
+2022-02-17,London,15
+2022-02-17,Paris,9
+2022-02-17,New York,16
+2022-02-17,Los Angeles,8
+2022-02-17,São Paulo,7
+2022-02-17,Buenos Aires,1
+2022-02-17,Melbourne,6
+2022-02-17,Shanghai,5
+2022-02-17,Tokyo,9
+2022-02-17,Seoul,21
+2022-02-17,Johannesburg,16
+2022-02-18,Bangalore,7
+2022-02-18,Amsterdam,12
+2022-02-18,Warsaw,11
+2022-02-18,London,12
+2022-02-18,Paris,11
+2022-02-18,New York,11
+2022-02-18,Los Angeles,9
+2022-02-18,São Paulo,23
+2022-02-18,Buenos Aires,7
+2022-02-18,Melbourne,4
+2022-02-18,Shanghai,12
+2022-02-18,Tokyo,8
+2022-02-18,Seoul,6
+2022-02-18,Johannesburg,5
+2022-02-19,Bangalore,13
+2022-02-19,Amsterdam,16
+2022-02-19,Warsaw,2
+2022-02-19,London,11
+2022-02-19,Paris,3
+2022-02-19,New York,12
+2022-02-19,Los Angeles,17
+2022-02-19,São Paulo,5
+2022-02-19,Buenos Aires,7
+2022-02-19,Melbourne,13
+2022-02-19,Shanghai,16
+2022-02-19,Tokyo,27
+2022-02-19,Seoul,9
+2022-02-19,Johannesburg,17
+2022-02-20,Bangalore,11
+2022-02-20,Amsterdam,7
+2022-02-20,Warsaw,25
+2022-02-20,London,7
+2022-02-20,Paris,10
+2022-02-20,New York,15
+2022-02-20,Los Angeles,16
+2022-02-20,São Paulo,18
+2022-02-20,Buenos Aires,12
+2022-02-20,Melbourne,9
+2022-02-20,Shanghai,14
+2022-02-20,Tokyo,8
+2022-02-20,Seoul,12
+2022-02-20,Johannesburg,7
+2022-02-21,Bangalore,11
+2022-02-21,Amsterdam,14
+2022-02-21,Warsaw,18
+2022-02-21,London,3
+2022-02-21,Paris,11
+2022-02-21,New York,11
+2022-02-21,Los Angeles,11
+2022-02-21,São Paulo,10
+2022-02-21,Buenos Aires,7
+2022-02-21,Melbourne,7
+2022-02-21,Shanghai,20
+2022-02-21,Tokyo,4
+2022-02-21,Seoul,8
+2022-02-21,Johannesburg,6
+2022-02-22,Bangalore,12
+2022-02-22,Amsterdam,1
+2022-02-22,Warsaw,6
+2022-02-22,London,8
+2022-02-22,Paris,18
+2022-02-22,New York,8
+2022-02-22,Los Angeles,5
+2022-02-22,São Paulo,1
+2022-02-22,Buenos Aires,13
+2022-02-22,Melbourne,1
+2022-02-22,Shanghai,13
+2022-02-22,Tokyo,1
+2022-02-22,Seoul,9
+2022-02-22,Johannesburg,18
+2022-02-23,Bangalore,8
+2022-02-23,Amsterdam,7
+2022-02-23,Warsaw,15
+2022-02-23,London,7
+2022-02-23,Paris,16
+2022-02-23,New York,13
+2022-02-23,Los Angeles,5
+2022-02-23,São Paulo,13
+2022-02-23,Buenos Aires,13
+2022-02-23,Melbourne,8
+2022-02-23,Shanghai,14
+2022-02-23,Tokyo,9
+2022-02-23,Seoul,10
+2022-02-23,Johannesburg,10
+2022-02-24,Bangalore,14
+2022-02-24,Amsterdam,21
+2022-02-24,Warsaw,17
+2022-02-24,London,14
+2022-02-24,Paris,4
+2022-02-24,New York,12
+2022-02-24,Los Angeles,11
+2022-02-24,São Paulo,8
+2022-02-24,Buenos Aires,4
+2022-02-24,Melbourne,12
+2022-02-24,Shanghai,2
+2022-02-24,Tokyo,7
+2022-02-24,Seoul,6
+2022-02-24,Johannesburg,13
+2022-02-25,Bangalore,12
+2022-02-25,Amsterdam,13
+2022-02-25,Warsaw,17
+2022-02-25,London,8
+2022-02-25,Paris,10
+2022-02-25,New York,2
+2022-02-25,Los Angeles,2
+2022-02-25,São Paulo,15
+2022-02-25,Buenos Aires,10
+2022-02-25,Melbourne,8
+2022-02-25,Shanghai,10
+2022-02-25,Tokyo,11
+2022-02-25,Seoul,14
+2022-02-25,Johannesburg,1
+2022-02-26,Bangalore,16
+2022-02-26,Amsterdam,10
+2022-02-26,Warsaw,14
+2022-02-26,London,10
+2022-02-26,Paris,10
+2022-02-26,New York,6
+2022-02-26,Los Angeles,3
+2022-02-26,São Paulo,13
+2022-02-26,Buenos Aires,8
+2022-02-26,Melbourne,2
+2022-02-26,Shanghai,11
+2022-02-26,Tokyo,6
+2022-02-26,Seoul,14
+2022-02-26,Johannesburg,3
+2022-02-27,Bangalore,10
+2022-02-27,Amsterdam,5
+2022-02-27,Warsaw,17
+2022-02-27,London,14
+2022-02-27,Paris,7
+2022-02-27,New York,10
+2022-02-27,Los Angeles,7
+2022-02-27,São Paulo,14
+2022-02-27,Buenos Aires,5
+2022-02-27,Melbourne,8
+2022-02-27,Shanghai,14
+2022-02-27,Tokyo,2
+2022-02-27,Seoul,12
+2022-02-27,Johannesburg,11
+2022-02-28,Bangalore,10
+2022-02-28,Amsterdam,2
+2022-02-28,Warsaw,2
+2022-02-28,London,8
+2022-02-28,Paris,16
+2022-02-28,New York,21
+2022-02-28,Los Angeles,5
+2022-02-28,São Paulo,1
+2022-02-28,Buenos Aires,12
+2022-02-28,Melbourne,1
+2022-02-28,Shanghai,1
+2022-02-28,Tokyo,12
+2022-02-28,Seoul,6
+2022-02-28,Johannesburg,9
+2022-03-01,Bangalore,3
+2022-03-01,Amsterdam,17
+2022-03-01,Warsaw,12
+2022-03-01,London,11
+2022-03-01,Paris,12
+2022-03-01,New York,13
+2022-03-01,Los Angeles,19
+2022-03-01,São Paulo,15
+2022-03-01,Buenos Aires,16
+2022-03-01,Melbourne,11
+2022-03-01,Shanghai,14
+2022-03-01,Tokyo,5
+2022-03-01,Seoul,8
+2022-03-01,Johannesburg,8
+2022-03-02,Bangalore,4
+2022-03-02,Amsterdam,1
+2022-03-02,Warsaw,13
+2022-03-02,London,13
+2022-03-02,Paris,17
+2022-03-02,New York,1
+2022-03-02,Los Angeles,5
+2022-03-02,São Paulo,17
+2022-03-02,Buenos Aires,17
+2022-03-02,Melbourne,3
+2022-03-02,Shanghai,8
+2022-03-02,Tokyo,7
+2022-03-02,Seoul,1
+2022-03-02,Johannesburg,6
+2022-03-03,Bangalore,10
+2022-03-03,Amsterdam,14
+2022-03-03,Warsaw,11
+2022-03-03,London,8
+2022-03-03,Paris,6
+2022-03-03,New York,6
+2022-03-03,Los Angeles,3
+2022-03-03,São Paulo,5
+2022-03-03,Buenos Aires,2
+2022-03-03,Melbourne,1
+2022-03-03,Shanghai,19
+2022-03-03,Tokyo,15
+2022-03-03,Seoul,9
+2022-03-03,Johannesburg,13
+2022-03-04,Bangalore,5
+2022-03-04,Amsterdam,17
+2022-03-04,Warsaw,10
+2022-03-04,London,11
+2022-03-04,Paris,12
+2022-03-04,New York,11
+2022-03-04,Los Angeles,9
+2022-03-04,São Paulo,10
+2022-03-04,Buenos Aires,12
+2022-03-04,Melbourne,5
+2022-03-04,Shanghai,11
+2022-03-04,Tokyo,1
+2022-03-04,Seoul,15
+2022-03-04,Johannesburg,12
+2022-03-05,Bangalore,11
+2022-03-05,Amsterdam,5
+2022-03-05,Warsaw,8
+2022-03-05,London,6
+2022-03-05,Paris,5
+2022-03-05,New York,10
+2022-03-05,Los Angeles,6
+2022-03-05,São Paulo,12
+2022-03-05,Buenos Aires,11
+2022-03-05,Melbourne,10
+2022-03-05,Shanghai,11
+2022-03-05,Tokyo,10
+2022-03-05,Seoul,15
+2022-03-05,Johannesburg,7
+2022-03-06,Bangalore,6
+2022-03-06,Amsterdam,8
+2022-03-06,Warsaw,15
+2022-03-06,London,7
+2022-03-06,Paris,15
+2022-03-06,New York,5
+2022-03-06,Los Angeles,7
+2022-03-06,São Paulo,12
+2022-03-06,Buenos Aires,8
+2022-03-06,Melbourne,11
+2022-03-06,Shanghai,6
+2022-03-06,Tokyo,12
+2022-03-06,Seoul,7
+2022-03-06,Johannesburg,5
+2022-03-07,Bangalore,10
+2022-03-07,Amsterdam,10
+2022-03-07,Warsaw,15
+2022-03-07,London,6
+2022-03-07,Paris,10
+2022-03-07,New York,1
+2022-03-07,Los Angeles,12
+2022-03-07,São Paulo,21
+2022-03-07,Buenos Aires,10
+2022-03-07,Melbourne,6
+2022-03-07,Shanghai,15
+2022-03-07,Tokyo,11
+2022-03-07,Seoul,14
+2022-03-07,Johannesburg,5
+2022-03-08,Bangalore,11
+2022-03-08,Amsterdam,14
+2022-03-08,Warsaw,7
+2022-03-08,London,11
+2022-03-08,Paris,4
+2022-03-08,New York,14
+2022-03-08,Los Angeles,6
+2022-03-08,São Paulo,12
+2022-03-08,Buenos Aires,13
+2022-03-08,Melbourne,2
+2022-03-08,Shanghai,7
+2022-03-08,Tokyo,4
+2022-03-08,Seoul,2
+2022-03-08,Johannesburg,13
+2022-03-09,Bangalore,14
+2022-03-09,Amsterdam,8
+2022-03-09,Warsaw,13
+2022-03-09,London,2
+2022-03-09,Paris,10
+2022-03-09,New York,4
+2022-03-09,Los Angeles,6
+2022-03-09,São Paulo,1
+2022-03-09,Buenos Aires,9
+2022-03-09,Melbourne,6
+2022-03-09,Shanghai,8
+2022-03-09,Tokyo,19
+2022-03-09,Seoul,4
+2022-03-09,Johannesburg,10
+2022-03-10,Bangalore,1
+2022-03-10,Amsterdam,6
+2022-03-10,Warsaw,12
+2022-03-10,London,5
+2022-03-10,Paris,15
+2022-03-10,New York,6
+2022-03-10,Los Angeles,11
+2022-03-10,São Paulo,23
+2022-03-10,Buenos Aires,10
+2022-03-10,Melbourne,2
+2022-03-10,Shanghai,4
+2022-03-10,Tokyo,10
+2022-03-10,Seoul,8
+2022-03-10,Johannesburg,11
+2022-03-11,Bangalore,12
+2022-03-11,Amsterdam,10
+2022-03-11,Warsaw,8
+2022-03-11,London,7
+2022-03-11,Paris,8
+2022-03-11,New York,1
+2022-03-11,Los Angeles,11
+2022-03-11,São Paulo,7
+2022-03-11,Buenos Aires,8
+2022-03-11,Melbourne,5
+2022-03-11,Shanghai,13
+2022-03-11,Tokyo,21
+2022-03-11,Seoul,11
+2022-03-11,Johannesburg,8
+2022-03-12,Bangalore,6
+2022-03-12,Amsterdam,8
+2022-03-12,Warsaw,8
+2022-03-12,London,11
+2022-03-12,Paris,9
+2022-03-12,New York,9
+2022-03-12,Los Angeles,12
+2022-03-12,São Paulo,3
+2022-03-12,Buenos Aires,13
+2022-03-12,Melbourne,10
+2022-03-12,Shanghai,12
+2022-03-12,Tokyo,9
+2022-03-12,Seoul,13
+2022-03-12,Johannesburg,8
+2022-03-13,Bangalore,6
+2022-03-13,Amsterdam,11
+2022-03-13,Warsaw,11
+2022-03-13,London,16
+2022-03-13,Paris,13
+2022-03-13,New York,5
+2022-03-13,Los Angeles,1
+2022-03-13,São Paulo,7
+2022-03-13,Buenos Aires,10
+2022-03-13,Melbourne,10
+2022-03-13,Shanghai,4
+2022-03-13,Tokyo,16
+2022-03-13,Seoul,11
+2022-03-13,Johannesburg,9
+2022-03-14,Bangalore,17
+2022-03-14,Amsterdam,10
+2022-03-14,Warsaw,12
+2022-03-14,London,3
+2022-03-14,Paris,16
+2022-03-14,New York,12
+2022-03-14,Los Angeles,1
+2022-03-14,São Paulo,12
+2022-03-14,Buenos Aires,5
+2022-03-14,Melbourne,13
+2022-03-14,Shanghai,12
+2022-03-14,Tokyo,5
+2022-03-14,Seoul,11
+2022-03-14,Johannesburg,4
+2022-03-15,Bangalore,13
+2022-03-15,Amsterdam,6
+2022-03-15,Warsaw,11
+2022-03-15,London,15
+2022-03-15,Paris,6
+2022-03-15,New York,11
+2022-03-15,Los Angeles,17
+2022-03-15,São Paulo,7
+2022-03-15,Buenos Aires,10
+2022-03-15,Melbourne,5
+2022-03-15,Shanghai,19
+2022-03-15,Tokyo,10
+2022-03-15,Seoul,9
+2022-03-15,Johannesburg,10
+2022-03-16,Bangalore,6
+2022-03-16,Amsterdam,12
+2022-03-16,Warsaw,7
+2022-03-16,London,10
+2022-03-16,Paris,5
+2022-03-16,New York,8
+2022-03-16,Los Angeles,7
+2022-03-16,São Paulo,12
+2022-03-16,Buenos Aires,9
+2022-03-16,Melbourne,13
+2022-03-16,Shanghai,8
+2022-03-16,Tokyo,17
+2022-03-16,Seoul,1
+2022-03-16,Johannesburg,8
+2022-03-17,Bangalore,2
+2022-03-17,Amsterdam,23
+2022-03-17,Warsaw,7
+2022-03-17,London,3
+2022-03-17,Paris,10
+2022-03-17,New York,9
+2022-03-17,Los Angeles,10
+2022-03-17,São Paulo,24
+2022-03-17,Buenos Aires,10
+2022-03-17,Melbourne,7
+2022-03-17,Shanghai,15
+2022-03-17,Tokyo,10
+2022-03-17,Seoul,12
+2022-03-17,Johannesburg,12
+2022-03-18,Bangalore,9
+2022-03-18,Amsterdam,5
+2022-03-18,Warsaw,16
+2022-03-18,London,10
+2022-03-18,Paris,21
+2022-03-18,New York,16
+2022-03-18,Los Angeles,6
+2022-03-18,São Paulo,11
+2022-03-18,Buenos Aires,12
+2022-03-18,Melbourne,12
+2022-03-18,Shanghai,11
+2022-03-18,Tokyo,8
+2022-03-18,Seoul,11
+2022-03-18,Johannesburg,6
+2022-03-19,Bangalore,10
+2022-03-19,Amsterdam,5
+2022-03-19,Warsaw,18
+2022-03-19,London,12
+2022-03-19,Paris,13
+2022-03-19,New York,15
+2022-03-19,Los Angeles,10
+2022-03-19,São Paulo,6
+2022-03-19,Buenos Aires,3
+2022-03-19,Melbourne,15
+2022-03-19,Shanghai,4
+2022-03-19,Tokyo,8
+2022-03-19,Seoul,10
+2022-03-19,Johannesburg,13
+2022-03-20,Bangalore,13
+2022-03-20,Amsterdam,3
+2022-03-20,Warsaw,1
+2022-03-20,London,10
+2022-03-20,Paris,10
+2022-03-20,New York,2
+2022-03-20,Los Angeles,9
+2022-03-20,São Paulo,15
+2022-03-20,Buenos Aires,17
+2022-03-20,Melbourne,8
+2022-03-20,Shanghai,13
+2022-03-20,Tokyo,12
+2022-03-20,Seoul,14
+2022-03-20,Johannesburg,4
+2022-03-21,Bangalore,11
+2022-03-21,Amsterdam,15
+2022-03-21,Warsaw,13
+2022-03-21,London,10
+2022-03-21,Paris,12
+2022-03-21,New York,13
+2022-03-21,Los Angeles,8
+2022-03-21,São Paulo,7
+2022-03-21,Buenos Aires,13
+2022-03-21,Melbourne,10
+2022-03-21,Shanghai,12
+2022-03-21,Tokyo,9
+2022-03-21,Seoul,8
+2022-03-21,Johannesburg,14
+2022-03-22,Bangalore,6
+2022-03-22,Amsterdam,7
+2022-03-22,Warsaw,9
+2022-03-22,London,10
+2022-03-22,Paris,18
+2022-03-22,New York,21
+2022-03-22,Los Angeles,1
+2022-03-22,São Paulo,4
+2022-03-22,Buenos Aires,1
+2022-03-22,Melbourne,6
+2022-03-22,Shanghai,16
+2022-03-22,Tokyo,4
+2022-03-22,Seoul,12
+2022-03-22,Johannesburg,9
+2022-03-23,Bangalore,19
+2022-03-23,Amsterdam,1
+2022-03-23,Warsaw,10
+2022-03-23,London,3
+2022-03-23,Paris,17
+2022-03-23,New York,16
+2022-03-23,Los Angeles,11
+2022-03-23,São Paulo,13
+2022-03-23,Buenos Aires,5
+2022-03-23,Melbourne,15
+2022-03-23,Shanghai,5
+2022-03-23,Tokyo,10
+2022-03-23,Seoul,7
+2022-03-23,Johannesburg,13
+2022-03-24,Bangalore,7
+2022-03-24,Amsterdam,8
+2022-03-24,Warsaw,6
+2022-03-24,London,1
+2022-03-24,Paris,12
+2022-03-24,New York,7
+2022-03-24,Los Angeles,7
+2022-03-24,São Paulo,14
+2022-03-24,Buenos Aires,5
+2022-03-24,Melbourne,6
+2022-03-24,Shanghai,11
+2022-03-24,Tokyo,6
+2022-03-24,Seoul,1
+2022-03-24,Johannesburg,9
+2022-03-25,Bangalore,12
+2022-03-25,Amsterdam,8
+2022-03-25,Warsaw,6
+2022-03-25,London,15
+2022-03-25,Paris,13
+2022-03-25,New York,13
+2022-03-25,Los Angeles,4
+2022-03-25,São Paulo,11
+2022-03-25,Buenos Aires,9
+2022-03-25,Melbourne,10
+2022-03-25,Shanghai,6
+2022-03-25,Tokyo,10
+2022-03-25,Seoul,4
+2022-03-25,Johannesburg,5
+2022-03-26,Bangalore,24
+2022-03-26,Amsterdam,15
+2022-03-26,Warsaw,5
+2022-03-26,London,7
+2022-03-26,Paris,7
+2022-03-26,New York,13
+2022-03-26,Los Angeles,18
+2022-03-26,São Paulo,4
+2022-03-26,Buenos Aires,1
+2022-03-26,Melbourne,17
+2022-03-26,Shanghai,9
+2022-03-26,Tokyo,3
+2022-03-26,Seoul,3
+2022-03-26,Johannesburg,10
+2022-03-27,Bangalore,10
+2022-03-27,Amsterdam,4
+2022-03-27,Warsaw,8
+2022-03-27,London,4
+2022-03-27,Paris,8
+2022-03-27,New York,17
+2022-03-27,Los Angeles,13
+2022-03-27,São Paulo,11
+2022-03-27,Buenos Aires,13
+2022-03-27,Melbourne,12
+2022-03-27,Shanghai,2
+2022-03-27,Tokyo,4
+2022-03-27,Seoul,16
+2022-03-27,Johannesburg,11
+2022-03-28,Bangalore,6
+2022-03-28,Amsterdam,7
+2022-03-28,Warsaw,8
+2022-03-28,London,16
+2022-03-28,Paris,13
+2022-03-28,New York,10
+2022-03-28,Los Angeles,12
+2022-03-28,São Paulo,1
+2022-03-28,Buenos Aires,7
+2022-03-28,Melbourne,13
+2022-03-28,Shanghai,7
+2022-03-28,Tokyo,12
+2022-03-28,Seoul,14
+2022-03-28,Johannesburg,10
+2022-03-29,Bangalore,14
+2022-03-29,Amsterdam,16
+2022-03-29,Warsaw,7
+2022-03-29,London,7
+2022-03-29,Paris,8
+2022-03-29,New York,9
+2022-03-29,Los Angeles,10
+2022-03-29,São Paulo,9
+2022-03-29,Buenos Aires,15
+2022-03-29,Melbourne,22
+2022-03-29,Shanghai,9
+2022-03-29,Tokyo,5
+2022-03-29,Seoul,3
+2022-03-29,Johannesburg,8
+2022-03-30,Bangalore,3
+2022-03-30,Amsterdam,2
+2022-03-30,Warsaw,9
+2022-03-30,London,9
+2022-03-30,Paris,8
+2022-03-30,New York,11
+2022-03-30,Los Angeles,14
+2022-03-30,São Paulo,8
+2022-03-30,Buenos Aires,4
+2022-03-30,Melbourne,1
+2022-03-30,Shanghai,12
+2022-03-30,Tokyo,9
+2022-03-30,Seoul,17
+2022-03-30,Johannesburg,13
+2022-03-31,Bangalore,11
+2022-03-31,Amsterdam,13
+2022-03-31,Warsaw,5
+2022-03-31,London,9
+2022-03-31,Paris,3
+2022-03-31,New York,5
+2022-03-31,Los Angeles,8
+2022-03-31,São Paulo,9
+2022-03-31,Buenos Aires,3
+2022-03-31,Melbourne,15
+2022-03-31,Shanghai,11
+2022-03-31,Tokyo,8
+2022-03-31,Seoul,6
+2022-03-31,Johannesburg,1
+2022-04-01,Bangalore,4
+2022-04-01,Amsterdam,1
+2022-04-01,Warsaw,8
+2022-04-01,London,8
+2022-04-01,Paris,6
+2022-04-01,New York,11
+2022-04-01,Los Angeles,10
+2022-04-01,São Paulo,1
+2022-04-01,Buenos Aires,10
+2022-04-01,Melbourne,14
+2022-04-01,Shanghai,19
+2022-04-01,Tokyo,5
+2022-04-01,Seoul,17
+2022-04-01,Johannesburg,22
+2022-04-02,Bangalore,10
+2022-04-02,Amsterdam,6
+2022-04-02,Warsaw,17
+2022-04-02,London,6
+2022-04-02,Paris,10
+2022-04-02,New York,15
+2022-04-02,Los Angeles,12
+2022-04-02,São Paulo,9
+2022-04-02,Buenos Aires,6
+2022-04-02,Melbourne,7
+2022-04-02,Shanghai,7
+2022-04-02,Tokyo,11
+2022-04-02,Seoul,3
+2022-04-02,Johannesburg,10
+2022-04-03,Bangalore,9
+2022-04-03,Amsterdam,1
+2022-04-03,Warsaw,8
+2022-04-03,London,20
+2022-04-03,Paris,4
+2022-04-03,New York,9
+2022-04-03,Los Angeles,9
+2022-04-03,São Paulo,1
+2022-04-03,Buenos Aires,3
+2022-04-03,Melbourne,13
+2022-04-03,Shanghai,8
+2022-04-03,Tokyo,4
+2022-04-03,Seoul,9
+2022-04-03,Johannesburg,4
+2022-04-04,Bangalore,8
+2022-04-04,Amsterdam,5
+2022-04-04,Warsaw,10
+2022-04-04,London,9
+2022-04-04,Paris,13
+2022-04-04,New York,7
+2022-04-04,Los Angeles,6
+2022-04-04,São Paulo,13
+2022-04-04,Buenos Aires,9
+2022-04-04,Melbourne,14
+2022-04-04,Shanghai,4
+2022-04-04,Tokyo,1
+2022-04-04,Seoul,4
+2022-04-04,Johannesburg,16
+2022-04-05,Bangalore,10
+2022-04-05,Amsterdam,15
+2022-04-05,Warsaw,11
+2022-04-05,London,12
+2022-04-05,Paris,4
+2022-04-05,New York,13
+2022-04-05,Los Angeles,6
+2022-04-05,São Paulo,13
+2022-04-05,Buenos Aires,17
+2022-04-05,Melbourne,4
+2022-04-05,Shanghai,4
+2022-04-05,Tokyo,13
+2022-04-05,Seoul,8
+2022-04-05,Johannesburg,12
+2022-04-06,Bangalore,15
+2022-04-06,Amsterdam,1
+2022-04-06,Warsaw,13
+2022-04-06,London,15
+2022-04-06,Paris,8
+2022-04-06,New York,16
+2022-04-06,Los Angeles,8
+2022-04-06,São Paulo,10
+2022-04-06,Buenos Aires,10
+2022-04-06,Melbourne,9
+2022-04-06,Shanghai,8
+2022-04-06,Tokyo,12
+2022-04-06,Seoul,3
+2022-04-06,Johannesburg,8
+2022-04-07,Bangalore,18
+2022-04-07,Amsterdam,8
+2022-04-07,Warsaw,18
+2022-04-07,London,4
+2022-04-07,Paris,8
+2022-04-07,New York,14
+2022-04-07,Los Angeles,6
+2022-04-07,São Paulo,10
+2022-04-07,Buenos Aires,21
+2022-04-07,Melbourne,12
+2022-04-07,Shanghai,4
+2022-04-07,Tokyo,9
+2022-04-07,Seoul,9
+2022-04-07,Johannesburg,8
+2022-04-08,Bangalore,14
+2022-04-08,Amsterdam,15
+2022-04-08,Warsaw,6
+2022-04-08,London,12
+2022-04-08,Paris,11
+2022-04-08,New York,10
+2022-04-08,Los Angeles,8
+2022-04-08,São Paulo,15
+2022-04-08,Buenos Aires,14
+2022-04-08,Melbourne,3
+2022-04-08,Shanghai,7
+2022-04-08,Tokyo,7
+2022-04-08,Seoul,15
+2022-04-08,Johannesburg,24
+2022-04-09,Bangalore,1
+2022-04-09,Amsterdam,7
+2022-04-09,Warsaw,14
+2022-04-09,London,14
+2022-04-09,Paris,15
+2022-04-09,New York,17
+2022-04-09,Los Angeles,8
+2022-04-09,São Paulo,15
+2022-04-09,Buenos Aires,13
+2022-04-09,Melbourne,17
+2022-04-09,Shanghai,1
+2022-04-09,Tokyo,13
+2022-04-09,Seoul,2
+2022-04-09,Johannesburg,5
+2022-04-10,Bangalore,15
+2022-04-10,Amsterdam,7
+2022-04-10,Warsaw,3
+2022-04-10,London,13
+2022-04-10,Paris,11
+2022-04-10,New York,10
+2022-04-10,Los Angeles,17
+2022-04-10,São Paulo,5
+2022-04-10,Buenos Aires,16
+2022-04-10,Melbourne,12
+2022-04-10,Shanghai,6
+2022-04-10,Tokyo,13
+2022-04-10,Seoul,9
+2022-04-10,Johannesburg,8
+2022-04-11,Bangalore,15
+2022-04-11,Amsterdam,3
+2022-04-11,Warsaw,12
+2022-04-11,London,9
+2022-04-11,Paris,1
+2022-04-11,New York,16
+2022-04-11,Los Angeles,15
+2022-04-11,São Paulo,6
+2022-04-11,Buenos Aires,12
+2022-04-11,Melbourne,6
+2022-04-11,Shanghai,10
+2022-04-11,Tokyo,16
+2022-04-11,Seoul,7
+2022-04-11,Johannesburg,3
+2022-04-12,Bangalore,8
+2022-04-12,Amsterdam,11
+2022-04-12,Warsaw,4
+2022-04-12,London,1
+2022-04-12,Paris,14
+2022-04-12,New York,10
+2022-04-12,Los Angeles,17
+2022-04-12,São Paulo,11
+2022-04-12,Buenos Aires,9
+2022-04-12,Melbourne,5
+2022-04-12,Shanghai,11
+2022-04-12,Tokyo,7
+2022-04-12,Seoul,8
+2022-04-12,Johannesburg,15
+2022-04-13,Bangalore,8
+2022-04-13,Amsterdam,11
+2022-04-13,Warsaw,10
+2022-04-13,London,9
+2022-04-13,Paris,8
+2022-04-13,New York,9
+2022-04-13,Los Angeles,8
+2022-04-13,São Paulo,12
+2022-04-13,Buenos Aires,10
+2022-04-13,Melbourne,15
+2022-04-13,Shanghai,10
+2022-04-13,Tokyo,13
+2022-04-13,Seoul,9
+2022-04-13,Johannesburg,1
+2022-04-14,Bangalore,12
+2022-04-14,Amsterdam,9
+2022-04-14,Warsaw,6
+2022-04-14,London,1
+2022-04-14,Paris,11
+2022-04-14,New York,12
+2022-04-14,Los Angeles,13
+2022-04-14,São Paulo,19
+2022-04-14,Buenos Aires,6
+2022-04-14,Melbourne,7
+2022-04-14,Shanghai,9
+2022-04-14,Tokyo,13
+2022-04-14,Seoul,9
+2022-04-14,Johannesburg,23
+2022-04-15,Bangalore,4
+2022-04-15,Amsterdam,13
+2022-04-15,Warsaw,14
+2022-04-15,London,10
+2022-04-15,Paris,2
+2022-04-15,New York,11
+2022-04-15,Los Angeles,12
+2022-04-15,São Paulo,10
+2022-04-15,Buenos Aires,8
+2022-04-15,Melbourne,14
+2022-04-15,Shanghai,12
+2022-04-15,Tokyo,8
+2022-04-15,Seoul,10
+2022-04-15,Johannesburg,6
+2022-04-16,Bangalore,10
+2022-04-16,Amsterdam,2
+2022-04-16,Warsaw,5
+2022-04-16,London,5
+2022-04-16,Paris,24
+2022-04-16,New York,7
+2022-04-16,Los Angeles,14
+2022-04-16,São Paulo,10
+2022-04-16,Buenos Aires,14
+2022-04-16,Melbourne,5
+2022-04-16,Shanghai,12
+2022-04-16,Tokyo,14
+2022-04-16,Seoul,12
+2022-04-16,Johannesburg,2
+2022-04-17,Bangalore,9
+2022-04-17,Amsterdam,7
+2022-04-17,Warsaw,3
+2022-04-17,London,9
+2022-04-17,Paris,9
+2022-04-17,New York,14
+2022-04-17,Los Angeles,15
+2022-04-17,São Paulo,9
+2022-04-17,Buenos Aires,11
+2022-04-17,Melbourne,15
+2022-04-17,Shanghai,13
+2022-04-17,Tokyo,1
+2022-04-17,Seoul,8
+2022-04-17,Johannesburg,13
+2022-04-18,Bangalore,9
+2022-04-18,Amsterdam,25
+2022-04-18,Warsaw,12
+2022-04-18,London,5
+2022-04-18,Paris,1
+2022-04-18,New York,18
+2022-04-18,Los Angeles,9
+2022-04-18,São Paulo,13
+2022-04-18,Buenos Aires,15
+2022-04-18,Melbourne,7
+2022-04-18,Shanghai,16
+2022-04-18,Tokyo,2
+2022-04-18,Seoul,15
+2022-04-18,Johannesburg,4
+2022-04-19,Bangalore,13
+2022-04-19,Amsterdam,10
+2022-04-19,Warsaw,12
+2022-04-19,London,10
+2022-04-19,Paris,16
+2022-04-19,New York,23
+2022-04-19,Los Angeles,13
+2022-04-19,São Paulo,9
+2022-04-19,Buenos Aires,15
+2022-04-19,Melbourne,15
+2022-04-19,Shanghai,6
+2022-04-19,Tokyo,6
+2022-04-19,Seoul,5
+2022-04-19,Johannesburg,11
+2022-04-20,Bangalore,17
+2022-04-20,Amsterdam,14
+2022-04-20,Warsaw,18
+2022-04-20,London,8
+2022-04-20,Paris,16
+2022-04-20,New York,11
+2022-04-20,Los Angeles,10
+2022-04-20,São Paulo,12
+2022-04-20,Buenos Aires,12
+2022-04-20,Melbourne,14
+2022-04-20,Shanghai,14
+2022-04-20,Tokyo,5
+2022-04-20,Seoul,7
+2022-04-20,Johannesburg,14
+2022-04-21,Bangalore,9
+2022-04-21,Amsterdam,4
+2022-04-21,Warsaw,1
+2022-04-21,London,6
+2022-04-21,Paris,14
+2022-04-21,New York,7
+2022-04-21,Los Angeles,7
+2022-04-21,São Paulo,13
+2022-04-21,Buenos Aires,13
+2022-04-21,Melbourne,9
+2022-04-21,Shanghai,15
+2022-04-21,Tokyo,5
+2022-04-21,Seoul,11
+2022-04-21,Johannesburg,16
+2022-04-22,Bangalore,7
+2022-04-22,Amsterdam,5
+2022-04-22,Warsaw,2
+2022-04-22,London,16
+2022-04-22,Paris,5
+2022-04-22,New York,3
+2022-04-22,Los Angeles,11
+2022-04-22,São Paulo,3
+2022-04-22,Buenos Aires,3
+2022-04-22,Melbourne,14
+2022-04-22,Shanghai,1
+2022-04-22,Tokyo,7
+2022-04-22,Seoul,7
+2022-04-22,Johannesburg,10
+2022-04-23,Bangalore,16
+2022-04-23,Amsterdam,11
+2022-04-23,Warsaw,17
+2022-04-23,London,13
+2022-04-23,Paris,11
+2022-04-23,New York,10
+2022-04-23,Los Angeles,8
+2022-04-23,São Paulo,17
+2022-04-23,Buenos Aires,10
+2022-04-23,Melbourne,12
+2022-04-23,Shanghai,6
+2022-04-23,Tokyo,18
+2022-04-23,Seoul,12
+2022-04-23,Johannesburg,3
+2022-04-24,Bangalore,9
+2022-04-24,Amsterdam,1
+2022-04-24,Warsaw,3
+2022-04-24,London,14
+2022-04-24,Paris,15
+2022-04-24,New York,7
+2022-04-24,Los Angeles,13
+2022-04-24,São Paulo,13
+2022-04-24,Buenos Aires,1
+2022-04-24,Melbourne,8
+2022-04-24,Shanghai,12
+2022-04-24,Tokyo,11
+2022-04-24,Seoul,17
+2022-04-24,Johannesburg,7
+2022-04-25,Bangalore,4
+2022-04-25,Amsterdam,6
+2022-04-25,Warsaw,11
+2022-04-25,London,8
+2022-04-25,Paris,9
+2022-04-25,New York,10
+2022-04-25,Los Angeles,10
+2022-04-25,São Paulo,8
+2022-04-25,Buenos Aires,10
+2022-04-25,Melbourne,12
+2022-04-25,Shanghai,10
+2022-04-25,Tokyo,3
+2022-04-25,Seoul,14
+2022-04-25,Johannesburg,13
+2022-04-26,Bangalore,6
+2022-04-26,Amsterdam,17
+2022-04-26,Warsaw,5
+2022-04-26,London,9
+2022-04-26,Paris,8
+2022-04-26,New York,12
+2022-04-26,Los Angeles,3
+2022-04-26,São Paulo,11
+2022-04-26,Buenos Aires,17
+2022-04-26,Melbourne,21
+2022-04-26,Shanghai,11
+2022-04-26,Tokyo,9
+2022-04-26,Seoul,7
+2022-04-26,Johannesburg,2
+2022-04-27,Bangalore,11
+2022-04-27,Amsterdam,19
+2022-04-27,Warsaw,9
+2022-04-27,London,10
+2022-04-27,Paris,4
+2022-04-27,New York,8
+2022-04-27,Los Angeles,13
+2022-04-27,São Paulo,3
+2022-04-27,Buenos Aires,16
+2022-04-27,Melbourne,12
+2022-04-27,Shanghai,5
+2022-04-27,Tokyo,10
+2022-04-27,Seoul,12
+2022-04-27,Johannesburg,7
+2022-04-28,Bangalore,16
+2022-04-28,Amsterdam,9
+2022-04-28,Warsaw,4
+2022-04-28,London,14
+2022-04-28,Paris,7
+2022-04-28,New York,12
+2022-04-28,Los Angeles,7
+2022-04-28,São Paulo,17
+2022-04-28,Buenos Aires,9
+2022-04-28,Melbourne,7
+2022-04-28,Shanghai,16
+2022-04-28,Tokyo,10
+2022-04-28,Seoul,8
+2022-04-28,Johannesburg,10
+2022-04-29,Bangalore,14
+2022-04-29,Amsterdam,1
+2022-04-29,Warsaw,8
+2022-04-29,London,17
+2022-04-29,Paris,14
+2022-04-29,New York,8
+2022-04-29,Los Angeles,21
+2022-04-29,São Paulo,1
+2022-04-29,Buenos Aires,19
+2022-04-29,Melbourne,15
+2022-04-29,Shanghai,8
+2022-04-29,Tokyo,15
+2022-04-29,Seoul,21
+2022-04-29,Johannesburg,10
+2022-04-30,Bangalore,9
+2022-04-30,Amsterdam,11
+2022-04-30,Warsaw,13
+2022-04-30,London,11
+2022-04-30,Paris,14
+2022-04-30,New York,18
+2022-04-30,Los Angeles,4
+2022-04-30,São Paulo,11
+2022-04-30,Buenos Aires,16
+2022-04-30,Melbourne,10
+2022-04-30,Shanghai,5
+2022-04-30,Tokyo,14
+2022-04-30,Seoul,18
+2022-04-30,Johannesburg,6
+2022-05-01,Bangalore,3
+2022-05-01,Amsterdam,3
+2022-05-01,Warsaw,11
+2022-05-01,London,11
+2022-05-01,Paris,1
+2022-05-01,New York,12
+2022-05-01,Los Angeles,19
+2022-05-01,São Paulo,14
+2022-05-01,Buenos Aires,17
+2022-05-01,Melbourne,10
+2022-05-01,Shanghai,8
+2022-05-01,Tokyo,14
+2022-05-01,Seoul,17
+2022-05-01,Johannesburg,22
+2022-05-02,Bangalore,8
+2022-05-02,Amsterdam,5
+2022-05-02,Warsaw,7
+2022-05-02,London,15
+2022-05-02,Paris,8
+2022-05-02,New York,18
+2022-05-02,Los Angeles,14
+2022-05-02,São Paulo,2
+2022-05-02,Buenos Aires,13
+2022-05-02,Melbourne,19
+2022-05-02,Shanghai,1
+2022-05-02,Tokyo,11
+2022-05-02,Seoul,3
+2022-05-02,Johannesburg,11
+2022-05-03,Bangalore,15
+2022-05-03,Amsterdam,4
+2022-05-03,Warsaw,15
+2022-05-03,London,10
+2022-05-03,Paris,11
+2022-05-03,New York,9
+2022-05-03,Los Angeles,7
+2022-05-03,São Paulo,11
+2022-05-03,Buenos Aires,12
+2022-05-03,Melbourne,12
+2022-05-03,Shanghai,1
+2022-05-03,Tokyo,18
+2022-05-03,Seoul,1
+2022-05-03,Johannesburg,12
+2022-05-04,Bangalore,8
+2022-05-04,Amsterdam,13
+2022-05-04,Warsaw,5
+2022-05-04,London,14
+2022-05-04,Paris,12
+2022-05-04,New York,12
+2022-05-04,Los Angeles,7
+2022-05-04,São Paulo,14
+2022-05-04,Buenos Aires,8
+2022-05-04,Melbourne,1
+2022-05-04,Shanghai,6
+2022-05-04,Tokyo,2
+2022-05-04,Seoul,12
+2022-05-04,Johannesburg,2
+2022-05-05,Bangalore,13
+2022-05-05,Amsterdam,1
+2022-05-05,Warsaw,16
+2022-05-05,London,3
+2022-05-05,Paris,8
+2022-05-05,New York,1
+2022-05-05,Los Angeles,21
+2022-05-05,São Paulo,3
+2022-05-05,Buenos Aires,10
+2022-05-05,Melbourne,14
+2022-05-05,Shanghai,16
+2022-05-05,Tokyo,11
+2022-05-05,Seoul,5
+2022-05-05,Johannesburg,11
+2022-05-06,Bangalore,14
+2022-05-06,Amsterdam,10
+2022-05-06,Warsaw,9
+2022-05-06,London,8
+2022-05-06,Paris,4
+2022-05-06,New York,1
+2022-05-06,Los Angeles,9
+2022-05-06,São Paulo,1
+2022-05-06,Buenos Aires,12
+2022-05-06,Melbourne,10
+2022-05-06,Shanghai,8
+2022-05-06,Tokyo,6
+2022-05-06,Seoul,10
+2022-05-06,Johannesburg,9
+2022-05-07,Bangalore,4
+2022-05-07,Amsterdam,1
+2022-05-07,Warsaw,8
+2022-05-07,London,12
+2022-05-07,Paris,22
+2022-05-07,New York,9
+2022-05-07,Los Angeles,10
+2022-05-07,São Paulo,11
+2022-05-07,Buenos Aires,14
+2022-05-07,Melbourne,8
+2022-05-07,Shanghai,19
+2022-05-07,Tokyo,14
+2022-05-07,Seoul,13
+2022-05-07,Johannesburg,11
+2022-05-08,Bangalore,10
+2022-05-08,Amsterdam,9
+2022-05-08,Warsaw,11
+2022-05-08,London,17
+2022-05-08,Paris,17
+2022-05-08,New York,9
+2022-05-08,Los Angeles,11
+2022-05-08,São Paulo,13
+2022-05-08,Buenos Aires,15
+2022-05-08,Melbourne,7
+2022-05-08,Shanghai,1
+2022-05-08,Tokyo,6
+2022-05-08,Seoul,10
+2022-05-08,Johannesburg,8
+2022-05-09,Bangalore,5
+2022-05-09,Amsterdam,7
+2022-05-09,Warsaw,6
+2022-05-09,London,19
+2022-05-09,Paris,9
+2022-05-09,New York,7
+2022-05-09,Los Angeles,9
+2022-05-09,São Paulo,5
+2022-05-09,Buenos Aires,16
+2022-05-09,Melbourne,10
+2022-05-09,Shanghai,15
+2022-05-09,Tokyo,12
+2022-05-09,Seoul,11
+2022-05-09,Johannesburg,11
+2022-05-10,Bangalore,13
+2022-05-10,Amsterdam,11
+2022-05-10,Warsaw,12
+2022-05-10,London,9
+2022-05-10,Paris,14
+2022-05-10,New York,17
+2022-05-10,Los Angeles,12
+2022-05-10,São Paulo,14
+2022-05-10,Buenos Aires,6
+2022-05-10,Melbourne,15
+2022-05-10,Shanghai,10
+2022-05-10,Tokyo,5
+2022-05-10,Seoul,13
+2022-05-10,Johannesburg,3
+2022-05-11,Bangalore,11
+2022-05-11,Amsterdam,9
+2022-05-11,Warsaw,3
+2022-05-11,London,12
+2022-05-11,Paris,11
+2022-05-11,New York,8
+2022-05-11,Los Angeles,9
+2022-05-11,São Paulo,17
+2022-05-11,Buenos Aires,7
+2022-05-11,Melbourne,12
+2022-05-11,Shanghai,11
+2022-05-11,Tokyo,6
+2022-05-11,Seoul,11
+2022-05-11,Johannesburg,4
+2022-05-12,Bangalore,9
+2022-05-12,Amsterdam,10
+2022-05-12,Warsaw,12
+2022-05-12,London,5
+2022-05-12,Paris,5
+2022-05-12,New York,10
+2022-05-12,Los Angeles,16
+2022-05-12,São Paulo,10
+2022-05-12,Buenos Aires,8
+2022-05-12,Melbourne,12
+2022-05-12,Shanghai,7
+2022-05-12,Tokyo,7
+2022-05-12,Seoul,13
+2022-05-12,Johannesburg,2
+2022-05-13,Bangalore,6
+2022-05-13,Amsterdam,16
+2022-05-13,Warsaw,8
+2022-05-13,London,11
+2022-05-13,Paris,11
+2022-05-13,New York,13
+2022-05-13,Los Angeles,12
+2022-05-13,São Paulo,12
+2022-05-13,Buenos Aires,11
+2022-05-13,Melbourne,8
+2022-05-13,Shanghai,11
+2022-05-13,Tokyo,10
+2022-05-13,Seoul,22
+2022-05-13,Johannesburg,5
+2022-05-14,Bangalore,12
+2022-05-14,Amsterdam,10
+2022-05-14,Warsaw,3
+2022-05-14,London,8
+2022-05-14,Paris,12
+2022-05-14,New York,18
+2022-05-14,Los Angeles,1
+2022-05-14,São Paulo,2
+2022-05-14,Buenos Aires,11
+2022-05-14,Melbourne,8
+2022-05-14,Shanghai,12
+2022-05-14,Tokyo,7
+2022-05-14,Seoul,9
+2022-05-14,Johannesburg,2
+2022-05-15,Bangalore,8
+2022-05-15,Amsterdam,15
+2022-05-15,Warsaw,10
+2022-05-15,London,10
+2022-05-15,Paris,5
+2022-05-15,New York,10
+2022-05-15,Los Angeles,12
+2022-05-15,São Paulo,9
+2022-05-15,Buenos Aires,8
+2022-05-15,Melbourne,9
+2022-05-15,Shanghai,11
+2022-05-15,Tokyo,5
+2022-05-15,Seoul,16
+2022-05-15,Johannesburg,4
+2022-05-16,Bangalore,5
+2022-05-16,Amsterdam,3
+2022-05-16,Warsaw,1
+2022-05-16,London,8
+2022-05-16,Paris,9
+2022-05-16,New York,8
+2022-05-16,Los Angeles,9
+2022-05-16,São Paulo,6
+2022-05-16,Buenos Aires,15
+2022-05-16,Melbourne,1
+2022-05-16,Shanghai,17
+2022-05-16,Tokyo,3
+2022-05-16,Seoul,6
+2022-05-16,Johannesburg,3
+2022-05-17,Bangalore,4
+2022-05-17,Amsterdam,17
+2022-05-17,Warsaw,16
+2022-05-17,London,9
+2022-05-17,Paris,8
+2022-05-17,New York,8
+2022-05-17,Los Angeles,6
+2022-05-17,São Paulo,11
+2022-05-17,Buenos Aires,2
+2022-05-17,Melbourne,10
+2022-05-17,Shanghai,5
+2022-05-17,Tokyo,9
+2022-05-17,Seoul,14
+2022-05-17,Johannesburg,17
+2022-05-18,Bangalore,8
+2022-05-18,Amsterdam,17
+2022-05-18,Warsaw,3
+2022-05-18,London,3
+2022-05-18,Paris,8
+2022-05-18,New York,9
+2022-05-18,Los Angeles,14
+2022-05-18,São Paulo,11
+2022-05-18,Buenos Aires,11
+2022-05-18,Melbourne,10
+2022-05-18,Shanghai,13
+2022-05-18,Tokyo,6
+2022-05-18,Seoul,13
+2022-05-18,Johannesburg,7
+2022-05-19,Bangalore,8
+2022-05-19,Amsterdam,8
+2022-05-19,Warsaw,1
+2022-05-19,London,11
+2022-05-19,Paris,14
+2022-05-19,New York,18
+2022-05-19,Los Angeles,3
+2022-05-19,São Paulo,2
+2022-05-19,Buenos Aires,16
+2022-05-19,Melbourne,17
+2022-05-19,Shanghai,7
+2022-05-19,Tokyo,10
+2022-05-19,Seoul,21
+2022-05-19,Johannesburg,9
+2022-05-20,Bangalore,8
+2022-05-20,Amsterdam,3
+2022-05-20,Warsaw,3
+2022-05-20,London,9
+2022-05-20,Paris,12
+2022-05-20,New York,1
+2022-05-20,Los Angeles,10
+2022-05-20,São Paulo,17
+2022-05-20,Buenos Aires,9
+2022-05-20,Melbourne,20
+2022-05-20,Shanghai,11
+2022-05-20,Tokyo,3
+2022-05-20,Seoul,2
+2022-05-20,Johannesburg,9
+2022-05-21,Bangalore,4
+2022-05-21,Amsterdam,8
+2022-05-21,Warsaw,10
+2022-05-21,London,4
+2022-05-21,Paris,5
+2022-05-21,New York,7
+2022-05-21,Los Angeles,5
+2022-05-21,São Paulo,7
+2022-05-21,Buenos Aires,22
+2022-05-21,Melbourne,7
+2022-05-21,Shanghai,1
+2022-05-21,Tokyo,7
+2022-05-21,Seoul,9
+2022-05-21,Johannesburg,9
+2022-05-22,Bangalore,11
+2022-05-22,Amsterdam,1
+2022-05-22,Warsaw,4
+2022-05-22,London,14
+2022-05-22,Paris,4
+2022-05-22,New York,13
+2022-05-22,Los Angeles,17
+2022-05-22,São Paulo,5
+2022-05-22,Buenos Aires,6
+2022-05-22,Melbourne,1
+2022-05-22,Shanghai,7
+2022-05-22,Tokyo,3
+2022-05-22,Seoul,8
+2022-05-22,Johannesburg,10
+2022-05-23,Bangalore,9
+2022-05-23,Amsterdam,11
+2022-05-23,Warsaw,10
+2022-05-23,London,8
+2022-05-23,Paris,8
+2022-05-23,New York,16
+2022-05-23,Los Angeles,1
+2022-05-23,São Paulo,7
+2022-05-23,Buenos Aires,1
+2022-05-23,Melbourne,9
+2022-05-23,Shanghai,13
+2022-05-23,Tokyo,7
+2022-05-23,Seoul,11
+2022-05-23,Johannesburg,4
+2022-05-24,Bangalore,14
+2022-05-24,Amsterdam,12
+2022-05-24,Warsaw,3
+2022-05-24,London,14
+2022-05-24,Paris,4
+2022-05-24,New York,13
+2022-05-24,Los Angeles,6
+2022-05-24,São Paulo,12
+2022-05-24,Buenos Aires,14
+2022-05-24,Melbourne,10
+2022-05-24,Shanghai,15
+2022-05-24,Tokyo,7
+2022-05-24,Seoul,6
+2022-05-24,Johannesburg,10
+2022-05-25,Bangalore,11
+2022-05-25,Amsterdam,15
+2022-05-25,Warsaw,14
+2022-05-25,London,10
+2022-05-25,Paris,14
+2022-05-25,New York,14
+2022-05-25,Los Angeles,19
+2022-05-25,São Paulo,9
+2022-05-25,Buenos Aires,6
+2022-05-25,Melbourne,6
+2022-05-25,Shanghai,12
+2022-05-25,Tokyo,15
+2022-05-25,Seoul,6
+2022-05-25,Johannesburg,9
+2022-05-26,Bangalore,11
+2022-05-26,Amsterdam,7
+2022-05-26,Warsaw,12
+2022-05-26,London,14
+2022-05-26,Paris,11
+2022-05-26,New York,9
+2022-05-26,Los Angeles,8
+2022-05-26,São Paulo,8
+2022-05-26,Buenos Aires,10
+2022-05-26,Melbourne,8
+2022-05-26,Shanghai,20
+2022-05-26,Tokyo,16
+2022-05-26,Seoul,1
+2022-05-26,Johannesburg,10
+2022-05-27,Bangalore,11
+2022-05-27,Amsterdam,9
+2022-05-27,Warsaw,4
+2022-05-27,London,13
+2022-05-27,Paris,9
+2022-05-27,New York,19
+2022-05-27,Los Angeles,8
+2022-05-27,São Paulo,2
+2022-05-27,Buenos Aires,4
+2022-05-27,Melbourne,6
+2022-05-27,Shanghai,11
+2022-05-27,Tokyo,9
+2022-05-27,Seoul,3
+2022-05-27,Johannesburg,11
+2022-05-28,Bangalore,16
+2022-05-28,Amsterdam,16
+2022-05-28,Warsaw,11
+2022-05-28,London,11
+2022-05-28,Paris,17
+2022-05-28,New York,6
+2022-05-28,Los Angeles,15
+2022-05-28,São Paulo,13
+2022-05-28,Buenos Aires,12
+2022-05-28,Melbourne,7
+2022-05-28,Shanghai,11
+2022-05-28,Tokyo,1
+2022-05-28,Seoul,9
+2022-05-28,Johannesburg,3
+2022-05-29,Bangalore,17
+2022-05-29,Amsterdam,22
+2022-05-29,Warsaw,8
+2022-05-29,London,2
+2022-05-29,Paris,16
+2022-05-29,New York,12
+2022-05-29,Los Angeles,5
+2022-05-29,São Paulo,2
+2022-05-29,Buenos Aires,6
+2022-05-29,Melbourne,17
+2022-05-29,Shanghai,9
+2022-05-29,Tokyo,10
+2022-05-29,Seoul,14
+2022-05-29,Johannesburg,17
+2022-05-30,Bangalore,12
+2022-05-30,Amsterdam,12
+2022-05-30,Warsaw,5
+2022-05-30,London,8
+2022-05-30,Paris,16
+2022-05-30,New York,10
+2022-05-30,Los Angeles,11
+2022-05-30,São Paulo,2
+2022-05-30,Buenos Aires,7
+2022-05-30,Melbourne,10
+2022-05-30,Shanghai,6
+2022-05-30,Tokyo,9
+2022-05-30,Seoul,4
+2022-05-30,Johannesburg,5
+2022-05-31,Bangalore,20
+2022-05-31,Amsterdam,7
+2022-05-31,Warsaw,7
+2022-05-31,London,9
+2022-05-31,Paris,16
+2022-05-31,New York,7
+2022-05-31,Los Angeles,13
+2022-05-31,São Paulo,6
+2022-05-31,Buenos Aires,10
+2022-05-31,Melbourne,5
+2022-05-31,Shanghai,1
+2022-05-31,Tokyo,1
+2022-05-31,Seoul,19
+2022-05-31,Johannesburg,8
+2022-06-01,Bangalore,13
+2022-06-01,Amsterdam,14
+2022-06-01,Warsaw,7
+2022-06-01,London,8
+2022-06-01,Paris,12
+2022-06-01,New York,11
+2022-06-01,Los Angeles,6
+2022-06-01,São Paulo,6
+2022-06-01,Buenos Aires,14
+2022-06-01,Melbourne,4
+2022-06-01,Shanghai,5
+2022-06-01,Tokyo,8
+2022-06-01,Seoul,6
+2022-06-01,Johannesburg,9
+2022-06-02,Bangalore,5
+2022-06-02,Amsterdam,11
+2022-06-02,Warsaw,12
+2022-06-02,London,9
+2022-06-02,Paris,14
+2022-06-02,New York,10
+2022-06-02,Los Angeles,11
+2022-06-02,São Paulo,12
+2022-06-02,Buenos Aires,6
+2022-06-02,Melbourne,16
+2022-06-02,Shanghai,9
+2022-06-02,Tokyo,9
+2022-06-02,Seoul,6
+2022-06-02,Johannesburg,3
+2022-06-03,Bangalore,25
+2022-06-03,Amsterdam,7
+2022-06-03,Warsaw,9
+2022-06-03,London,7
+2022-06-03,Paris,16
+2022-06-03,New York,10
+2022-06-03,Los Angeles,8
+2022-06-03,São Paulo,16
+2022-06-03,Buenos Aires,1
+2022-06-03,Melbourne,18
+2022-06-03,Shanghai,4
+2022-06-03,Tokyo,13
+2022-06-03,Seoul,1
+2022-06-03,Johannesburg,15
+2022-06-04,Bangalore,6
+2022-06-04,Amsterdam,6
+2022-06-04,Warsaw,18
+2022-06-04,London,14
+2022-06-04,Paris,6
+2022-06-04,New York,7
+2022-06-04,Los Angeles,17
+2022-06-04,São Paulo,12
+2022-06-04,Buenos Aires,11
+2022-06-04,Melbourne,17
+2022-06-04,Shanghai,4
+2022-06-04,Tokyo,13
+2022-06-04,Seoul,15
+2022-06-04,Johannesburg,12
+2022-06-05,Bangalore,1
+2022-06-05,Amsterdam,15
+2022-06-05,Warsaw,12
+2022-06-05,London,3
+2022-06-05,Paris,14
+2022-06-05,New York,12
+2022-06-05,Los Angeles,1
+2022-06-05,São Paulo,15
+2022-06-05,Buenos Aires,7
+2022-06-05,Melbourne,6
+2022-06-05,Shanghai,7
+2022-06-05,Tokyo,14
+2022-06-05,Seoul,13
+2022-06-05,Johannesburg,14
+2022-06-06,Bangalore,13
+2022-06-06,Amsterdam,9
+2022-06-06,Warsaw,15
+2022-06-06,London,13
+2022-06-06,Paris,1
+2022-06-06,New York,12
+2022-06-06,Los Angeles,13
+2022-06-06,São Paulo,7
+2022-06-06,Buenos Aires,10
+2022-06-06,Melbourne,13
+2022-06-06,Shanghai,12
+2022-06-06,Tokyo,13
+2022-06-06,Seoul,11
+2022-06-06,Johannesburg,15
+2022-06-07,Bangalore,9
+2022-06-07,Amsterdam,18
+2022-06-07,Warsaw,6
+2022-06-07,London,6
+2022-06-07,Paris,10
+2022-06-07,New York,11
+2022-06-07,Los Angeles,14
+2022-06-07,São Paulo,12
+2022-06-07,Buenos Aires,5
+2022-06-07,Melbourne,1
+2022-06-07,Shanghai,4
+2022-06-07,Tokyo,17
+2022-06-07,Seoul,4
+2022-06-07,Johannesburg,2
+2022-06-08,Bangalore,3
+2022-06-08,Amsterdam,14
+2022-06-08,Warsaw,9
+2022-06-08,London,11
+2022-06-08,Paris,6
+2022-06-08,New York,8
+2022-06-08,Los Angeles,21
+2022-06-08,São Paulo,9
+2022-06-08,Buenos Aires,5
+2022-06-08,Melbourne,16
+2022-06-08,Shanghai,9
+2022-06-08,Tokyo,13
+2022-06-08,Seoul,17
+2022-06-08,Johannesburg,12
+2022-06-09,Bangalore,11
+2022-06-09,Amsterdam,10
+2022-06-09,Warsaw,16
+2022-06-09,London,10
+2022-06-09,Paris,14
+2022-06-09,New York,10
+2022-06-09,Los Angeles,8
+2022-06-09,São Paulo,19
+2022-06-09,Buenos Aires,17
+2022-06-09,Melbourne,2
+2022-06-09,Shanghai,8
+2022-06-09,Tokyo,9
+2022-06-09,Seoul,16
+2022-06-09,Johannesburg,9
+2022-06-10,Bangalore,14
+2022-06-10,Amsterdam,8
+2022-06-10,Warsaw,13
+2022-06-10,London,12
+2022-06-10,Paris,9
+2022-06-10,New York,5
+2022-06-10,Los Angeles,16
+2022-06-10,São Paulo,17
+2022-06-10,Buenos Aires,9
+2022-06-10,Melbourne,8
+2022-06-10,Shanghai,13
+2022-06-10,Tokyo,12
+2022-06-10,Seoul,10
+2022-06-10,Johannesburg,8
+2022-06-11,Bangalore,1
+2022-06-11,Amsterdam,14
+2022-06-11,Warsaw,9
+2022-06-11,London,9
+2022-06-11,Paris,13
+2022-06-11,New York,13
+2022-06-11,Los Angeles,8
+2022-06-11,São Paulo,8
+2022-06-11,Buenos Aires,1
+2022-06-11,Melbourne,13
+2022-06-11,Shanghai,8
+2022-06-11,Tokyo,12
+2022-06-11,Seoul,14
+2022-06-11,Johannesburg,6
+2022-06-12,Bangalore,12
+2022-06-12,Amsterdam,14
+2022-06-12,Warsaw,1
+2022-06-12,London,5
+2022-06-12,Paris,8
+2022-06-12,New York,19
+2022-06-12,Los Angeles,9
+2022-06-12,São Paulo,3
+2022-06-12,Buenos Aires,7
+2022-06-12,Melbourne,23
+2022-06-12,Shanghai,10
+2022-06-12,Tokyo,10
+2022-06-12,Seoul,10
+2022-06-12,Johannesburg,1
+2022-06-13,Bangalore,20
+2022-06-13,Amsterdam,11
+2022-06-13,Warsaw,2
+2022-06-13,London,4
+2022-06-13,Paris,9
+2022-06-13,New York,5
+2022-06-13,Los Angeles,11
+2022-06-13,São Paulo,10
+2022-06-13,Buenos Aires,7
+2022-06-13,Melbourne,1
+2022-06-13,Shanghai,11
+2022-06-13,Tokyo,10
+2022-06-13,Seoul,4
+2022-06-13,Johannesburg,10
+2022-06-14,Bangalore,2
+2022-06-14,Amsterdam,1
+2022-06-14,Warsaw,16
+2022-06-14,London,12
+2022-06-14,Paris,1
+2022-06-14,New York,19
+2022-06-14,Los Angeles,8
+2022-06-14,São Paulo,16
+2022-06-14,Buenos Aires,16
+2022-06-14,Melbourne,9
+2022-06-14,Shanghai,9
+2022-06-14,Tokyo,10
+2022-06-14,Seoul,17
+2022-06-14,Johannesburg,14
+2022-06-15,Bangalore,13
+2022-06-15,Amsterdam,14
+2022-06-15,Warsaw,14
+2022-06-15,London,27
+2022-06-15,Paris,19
+2022-06-15,New York,1
+2022-06-15,Los Angeles,9
+2022-06-15,São Paulo,14
+2022-06-15,Buenos Aires,8
+2022-06-15,Melbourne,3
+2022-06-15,Shanghai,13
+2022-06-15,Tokyo,15
+2022-06-15,Seoul,8
+2022-06-15,Johannesburg,12
+2022-06-16,Bangalore,7
+2022-06-16,Amsterdam,5
+2022-06-16,Warsaw,6
+2022-06-16,London,7
+2022-06-16,Paris,5
+2022-06-16,New York,3
+2022-06-16,Los Angeles,6
+2022-06-16,São Paulo,4
+2022-06-16,Buenos Aires,13
+2022-06-16,Melbourne,3
+2022-06-16,Shanghai,1
+2022-06-16,Tokyo,12
+2022-06-16,Seoul,6
+2022-06-16,Johannesburg,9
+2022-06-17,Bangalore,14
+2022-06-17,Amsterdam,8
+2022-06-17,Warsaw,11
+2022-06-17,London,1
+2022-06-17,Paris,13
+2022-06-17,New York,13
+2022-06-17,Los Angeles,6
+2022-06-17,São Paulo,14
+2022-06-17,Buenos Aires,15
+2022-06-17,Melbourne,7
+2022-06-17,Shanghai,10
+2022-06-17,Tokyo,4
+2022-06-17,Seoul,22
+2022-06-17,Johannesburg,7
+2022-06-18,Bangalore,6
+2022-06-18,Amsterdam,16
+2022-06-18,Warsaw,13
+2022-06-18,London,9
+2022-06-18,Paris,4
+2022-06-18,New York,9
+2022-06-18,Los Angeles,5
+2022-06-18,São Paulo,3
+2022-06-18,Buenos Aires,9
+2022-06-18,Melbourne,4
+2022-06-18,Shanghai,11
+2022-06-18,Tokyo,3
+2022-06-18,Seoul,13
+2022-06-18,Johannesburg,4
+2022-06-19,Bangalore,7
+2022-06-19,Amsterdam,3
+2022-06-19,Warsaw,7
+2022-06-19,London,7
+2022-06-19,Paris,14
+2022-06-19,New York,7
+2022-06-19,Los Angeles,16
+2022-06-19,São Paulo,6
+2022-06-19,Buenos Aires,24
+2022-06-19,Melbourne,12
+2022-06-19,Shanghai,10
+2022-06-19,Tokyo,7
+2022-06-19,Seoul,5
+2022-06-19,Johannesburg,9
+2022-06-20,Bangalore,16
+2022-06-20,Amsterdam,11
+2022-06-20,Warsaw,5
+2022-06-20,London,13
+2022-06-20,Paris,6
+2022-06-20,New York,11
+2022-06-20,Los Angeles,12
+2022-06-20,São Paulo,20
+2022-06-20,Buenos Aires,6
+2022-06-20,Melbourne,15
+2022-06-20,Shanghai,9
+2022-06-20,Tokyo,8
+2022-06-20,Seoul,4
+2022-06-20,Johannesburg,8
+2022-06-21,Bangalore,9
+2022-06-21,Amsterdam,13
+2022-06-21,Warsaw,8
+2022-06-21,London,12
+2022-06-21,Paris,4
+2022-06-21,New York,13
+2022-06-21,Los Angeles,10
+2022-06-21,São Paulo,5
+2022-06-21,Buenos Aires,6
+2022-06-21,Melbourne,11
+2022-06-21,Shanghai,9
+2022-06-21,Tokyo,8
+2022-06-21,Seoul,15
+2022-06-21,Johannesburg,3
+2022-06-22,Bangalore,18
+2022-06-22,Amsterdam,1
+2022-06-22,Warsaw,2
+2022-06-22,London,12
+2022-06-22,Paris,7
+2022-06-22,New York,9
+2022-06-22,Los Angeles,12
+2022-06-22,São Paulo,18
+2022-06-22,Buenos Aires,6
+2022-06-22,Melbourne,14
+2022-06-22,Shanghai,15
+2022-06-22,Tokyo,2
+2022-06-22,Seoul,5
+2022-06-22,Johannesburg,7
+2022-06-23,Bangalore,3
+2022-06-23,Amsterdam,14
+2022-06-23,Warsaw,7
+2022-06-23,London,15
+2022-06-23,Paris,7
+2022-06-23,New York,5
+2022-06-23,Los Angeles,10
+2022-06-23,São Paulo,8
+2022-06-23,Buenos Aires,10
+2022-06-23,Melbourne,1
+2022-06-23,Shanghai,5
+2022-06-23,Tokyo,9
+2022-06-23,Seoul,15
+2022-06-23,Johannesburg,19
+2022-06-24,Bangalore,2
+2022-06-24,Amsterdam,4
+2022-06-24,Warsaw,16
+2022-06-24,London,10
+2022-06-24,Paris,13
+2022-06-24,New York,9
+2022-06-24,Los Angeles,7
+2022-06-24,São Paulo,22
+2022-06-24,Buenos Aires,5
+2022-06-24,Melbourne,11
+2022-06-24,Shanghai,8
+2022-06-24,Tokyo,5
+2022-06-24,Seoul,12
+2022-06-24,Johannesburg,16
+2022-06-25,Bangalore,16
+2022-06-25,Amsterdam,8
+2022-06-25,Warsaw,6
+2022-06-25,London,19
+2022-06-25,Paris,11
+2022-06-25,New York,3
+2022-06-25,Los Angeles,9
+2022-06-25,São Paulo,9
+2022-06-25,Buenos Aires,8
+2022-06-25,Melbourne,5
+2022-06-25,Shanghai,6
+2022-06-25,Tokyo,15
+2022-06-25,Seoul,14
+2022-06-25,Johannesburg,6
+2022-06-26,Bangalore,1
+2022-06-26,Amsterdam,18
+2022-06-26,Warsaw,11
+2022-06-26,London,3
+2022-06-26,Paris,13
+2022-06-26,New York,10
+2022-06-26,Los Angeles,5
+2022-06-26,São Paulo,11
+2022-06-26,Buenos Aires,8
+2022-06-26,Melbourne,9
+2022-06-26,Shanghai,13
+2022-06-26,Tokyo,15
+2022-06-26,Seoul,13
+2022-06-26,Johannesburg,7
+2022-06-27,Bangalore,12
+2022-06-27,Amsterdam,15
+2022-06-27,Warsaw,18
+2022-06-27,London,15
+2022-06-27,Paris,9
+2022-06-27,New York,13
+2022-06-27,Los Angeles,4
+2022-06-27,São Paulo,8
+2022-06-27,Buenos Aires,11
+2022-06-27,Melbourne,3
+2022-06-27,Shanghai,13
+2022-06-27,Tokyo,9
+2022-06-27,Seoul,8
+2022-06-27,Johannesburg,8
+2022-06-28,Bangalore,18
+2022-06-28,Amsterdam,1
+2022-06-28,Warsaw,15
+2022-06-28,London,7
+2022-06-28,Paris,14
+2022-06-28,New York,7
+2022-06-28,Los Angeles,8
+2022-06-28,São Paulo,7
+2022-06-28,Buenos Aires,9
+2022-06-28,Melbourne,6
+2022-06-28,Shanghai,7
+2022-06-28,Tokyo,14
+2022-06-28,Seoul,7
+2022-06-28,Johannesburg,16
+2022-06-29,Bangalore,10
+2022-06-29,Amsterdam,6
+2022-06-29,Warsaw,15
+2022-06-29,London,5
+2022-06-29,Paris,12
+2022-06-29,New York,11
+2022-06-29,Los Angeles,8
+2022-06-29,São Paulo,4
+2022-06-29,Buenos Aires,4
+2022-06-29,Melbourne,5
+2022-06-29,Shanghai,19
+2022-06-29,Tokyo,10
+2022-06-29,Seoul,1
+2022-06-29,Johannesburg,7
+2022-06-30,Bangalore,13
+2022-06-30,Amsterdam,11
+2022-06-30,Warsaw,8
+2022-06-30,London,14
+2022-06-30,Paris,9
+2022-06-30,New York,15
+2022-06-30,Los Angeles,15
+2022-06-30,São Paulo,10
+2022-06-30,Buenos Aires,19
+2022-06-30,Melbourne,5
+2022-06-30,Shanghai,13
+2022-06-30,Tokyo,3
+2022-06-30,Seoul,10
+2022-06-30,Johannesburg,5
+2022-07-01,Bangalore,13
+2022-07-01,Amsterdam,9
+2022-07-01,Warsaw,2
+2022-07-01,London,17
+2022-07-01,Paris,6
+2022-07-01,New York,9
+2022-07-01,Los Angeles,5
+2022-07-01,São Paulo,17
+2022-07-01,Buenos Aires,3
+2022-07-01,Melbourne,7
+2022-07-01,Shanghai,1
+2022-07-01,Tokyo,11
+2022-07-01,Seoul,7
+2022-07-01,Johannesburg,13
+2022-07-02,Bangalore,5
+2022-07-02,Amsterdam,9
+2022-07-02,Warsaw,5
+2022-07-02,London,1
+2022-07-02,Paris,16
+2022-07-02,New York,8
+2022-07-02,Los Angeles,10
+2022-07-02,São Paulo,14
+2022-07-02,Buenos Aires,16
+2022-07-02,Melbourne,9
+2022-07-02,Shanghai,10
+2022-07-02,Tokyo,4
+2022-07-02,Seoul,11
+2022-07-02,Johannesburg,15
+2022-07-03,Bangalore,13
+2022-07-03,Amsterdam,7
+2022-07-03,Warsaw,11
+2022-07-03,London,14
+2022-07-03,Paris,10
+2022-07-03,New York,20
+2022-07-03,Los Angeles,10
+2022-07-03,São Paulo,8
+2022-07-03,Buenos Aires,8
+2022-07-03,Melbourne,11
+2022-07-03,Shanghai,9
+2022-07-03,Tokyo,3
+2022-07-03,Seoul,7
+2022-07-03,Johannesburg,9
+2022-07-04,Bangalore,23
+2022-07-04,Amsterdam,8
+2022-07-04,Warsaw,10
+2022-07-04,London,25
+2022-07-04,Paris,2
+2022-07-04,New York,12
+2022-07-04,Los Angeles,14
+2022-07-04,São Paulo,15
+2022-07-04,Buenos Aires,16
+2022-07-04,Melbourne,14
+2022-07-04,Shanghai,1
+2022-07-04,Tokyo,9
+2022-07-04,Seoul,4
+2022-07-04,Johannesburg,4
+2022-07-05,Bangalore,10
+2022-07-05,Amsterdam,15
+2022-07-05,Warsaw,18
+2022-07-05,London,14
+2022-07-05,Paris,17
+2022-07-05,New York,7
+2022-07-05,Los Angeles,12
+2022-07-05,São Paulo,19
+2022-07-05,Buenos Aires,8
+2022-07-05,Melbourne,9
+2022-07-05,Shanghai,4
+2022-07-05,Tokyo,15
+2022-07-05,Seoul,9
+2022-07-05,Johannesburg,15
+2022-07-06,Bangalore,18
+2022-07-06,Amsterdam,5
+2022-07-06,Warsaw,4
+2022-07-06,London,11
+2022-07-06,Paris,12
+2022-07-06,New York,18
+2022-07-06,Los Angeles,6
+2022-07-06,São Paulo,14
+2022-07-06,Buenos Aires,7
+2022-07-06,Melbourne,6
+2022-07-06,Shanghai,5
+2022-07-06,Tokyo,19
+2022-07-06,Seoul,10
+2022-07-06,Johannesburg,1
+2022-07-07,Bangalore,1
+2022-07-07,Amsterdam,10
+2022-07-07,Warsaw,1
+2022-07-07,London,13
+2022-07-07,Paris,13
+2022-07-07,New York,12
+2022-07-07,Los Angeles,10
+2022-07-07,São Paulo,3
+2022-07-07,Buenos Aires,14
+2022-07-07,Melbourne,2
+2022-07-07,Shanghai,18
+2022-07-07,Tokyo,11
+2022-07-07,Seoul,7
+2022-07-07,Johannesburg,8
+2022-07-08,Bangalore,12
+2022-07-08,Amsterdam,4
+2022-07-08,Warsaw,18
+2022-07-08,London,13
+2022-07-08,Paris,5
+2022-07-08,New York,13
+2022-07-08,Los Angeles,9
+2022-07-08,São Paulo,6
+2022-07-08,Buenos Aires,13
+2022-07-08,Melbourne,1
+2022-07-08,Shanghai,1
+2022-07-08,Tokyo,4
+2022-07-08,Seoul,6
+2022-07-08,Johannesburg,2
+2022-07-09,Bangalore,8
+2022-07-09,Amsterdam,13
+2022-07-09,Warsaw,18
+2022-07-09,London,14
+2022-07-09,Paris,5
+2022-07-09,New York,9
+2022-07-09,Los Angeles,8
+2022-07-09,São Paulo,2
+2022-07-09,Buenos Aires,14
+2022-07-09,Melbourne,9
+2022-07-09,Shanghai,20
+2022-07-09,Tokyo,18
+2022-07-09,Seoul,1
+2022-07-09,Johannesburg,13
+2022-07-10,Bangalore,13
+2022-07-10,Amsterdam,4
+2022-07-10,Warsaw,7
+2022-07-10,London,13
+2022-07-10,Paris,15
+2022-07-10,New York,8
+2022-07-10,Los Angeles,10
+2022-07-10,São Paulo,8
+2022-07-10,Buenos Aires,11
+2022-07-10,Melbourne,17
+2022-07-10,Shanghai,13
+2022-07-10,Tokyo,13
+2022-07-10,Seoul,5
+2022-07-10,Johannesburg,13
+2022-07-11,Bangalore,1
+2022-07-11,Amsterdam,12
+2022-07-11,Warsaw,9
+2022-07-11,London,10
+2022-07-11,Paris,12
+2022-07-11,New York,14
+2022-07-11,Los Angeles,21
+2022-07-11,São Paulo,6
+2022-07-11,Buenos Aires,13
+2022-07-11,Melbourne,2
+2022-07-11,Shanghai,13
+2022-07-11,Tokyo,8
+2022-07-11,Seoul,14
+2022-07-11,Johannesburg,12
+2022-07-12,Bangalore,12
+2022-07-12,Amsterdam,13
+2022-07-12,Warsaw,10
+2022-07-12,London,4
+2022-07-12,Paris,1
+2022-07-12,New York,1
+2022-07-12,Los Angeles,13
+2022-07-12,São Paulo,16
+2022-07-12,Buenos Aires,6
+2022-07-12,Melbourne,20
+2022-07-12,Shanghai,18
+2022-07-12,Tokyo,15
+2022-07-12,Seoul,5
+2022-07-12,Johannesburg,12
+2022-07-13,Bangalore,2
+2022-07-13,Amsterdam,17
+2022-07-13,Warsaw,13
+2022-07-13,London,1
+2022-07-13,Paris,21
+2022-07-13,New York,16
+2022-07-13,Los Angeles,11
+2022-07-13,São Paulo,17
+2022-07-13,Buenos Aires,13
+2022-07-13,Melbourne,8
+2022-07-13,Shanghai,4
+2022-07-13,Tokyo,2
+2022-07-13,Seoul,4
+2022-07-13,Johannesburg,16
+2022-07-14,Bangalore,1
+2022-07-14,Amsterdam,12
+2022-07-14,Warsaw,8
+2022-07-14,London,10
+2022-07-14,Paris,3
+2022-07-14,New York,3
+2022-07-14,Los Angeles,6
+2022-07-14,São Paulo,8
+2022-07-14,Buenos Aires,12
+2022-07-14,Melbourne,7
+2022-07-14,Shanghai,12
+2022-07-14,Tokyo,11
+2022-07-14,Seoul,1
+2022-07-14,Johannesburg,12
+2022-07-15,Bangalore,15
+2022-07-15,Amsterdam,19
+2022-07-15,Warsaw,7
+2022-07-15,London,15
+2022-07-15,Paris,4
+2022-07-15,New York,17
+2022-07-15,Los Angeles,4
+2022-07-15,São Paulo,9
+2022-07-15,Buenos Aires,7
+2022-07-15,Melbourne,3
+2022-07-15,Shanghai,10
+2022-07-15,Tokyo,10
+2022-07-15,Seoul,16
+2022-07-15,Johannesburg,13
+2022-07-16,Bangalore,14
+2022-07-16,Amsterdam,10
+2022-07-16,Warsaw,19
+2022-07-16,London,4
+2022-07-16,Paris,10
+2022-07-16,New York,15
+2022-07-16,Los Angeles,7
+2022-07-16,São Paulo,9
+2022-07-16,Buenos Aires,5
+2022-07-16,Melbourne,6
+2022-07-16,Shanghai,12
+2022-07-16,Tokyo,12
+2022-07-16,Seoul,9
+2022-07-16,Johannesburg,1
+2022-07-17,Bangalore,5
+2022-07-17,Amsterdam,14
+2022-07-17,Warsaw,10
+2022-07-17,London,3
+2022-07-17,Paris,12
+2022-07-17,New York,4
+2022-07-17,Los Angeles,7
+2022-07-17,São Paulo,14
+2022-07-17,Buenos Aires,8
+2022-07-17,Melbourne,13
+2022-07-17,Shanghai,15
+2022-07-17,Tokyo,7
+2022-07-17,Seoul,14
+2022-07-17,Johannesburg,1
+2022-07-18,Bangalore,7
+2022-07-18,Amsterdam,10
+2022-07-18,Warsaw,7
+2022-07-18,London,3
+2022-07-18,Paris,9
+2022-07-18,New York,10
+2022-07-18,Los Angeles,11
+2022-07-18,São Paulo,10
+2022-07-18,Buenos Aires,1
+2022-07-18,Melbourne,9
+2022-07-18,Shanghai,12
+2022-07-18,Tokyo,11
+2022-07-18,Seoul,16
+2022-07-18,Johannesburg,4
+2022-07-19,Bangalore,13
+2022-07-19,Amsterdam,13
+2022-07-19,Warsaw,5
+2022-07-19,London,14
+2022-07-19,Paris,9
+2022-07-19,New York,9
+2022-07-19,Los Angeles,6
+2022-07-19,São Paulo,5
+2022-07-19,Buenos Aires,7
+2022-07-19,Melbourne,3
+2022-07-19,Shanghai,9
+2022-07-19,Tokyo,8
+2022-07-19,Seoul,14
+2022-07-19,Johannesburg,14
+2022-07-20,Bangalore,6
+2022-07-20,Amsterdam,9
+2022-07-20,Warsaw,15
+2022-07-20,London,8
+2022-07-20,Paris,10
+2022-07-20,New York,15
+2022-07-20,Los Angeles,4
+2022-07-20,São Paulo,1
+2022-07-20,Buenos Aires,24
+2022-07-20,Melbourne,16
+2022-07-20,Shanghai,12
+2022-07-20,Tokyo,10
+2022-07-20,Seoul,3
+2022-07-20,Johannesburg,16
+2022-07-21,Bangalore,7
+2022-07-21,Amsterdam,13
+2022-07-21,Warsaw,4
+2022-07-21,London,8
+2022-07-21,Paris,5
+2022-07-21,New York,8
+2022-07-21,Los Angeles,16
+2022-07-21,São Paulo,23
+2022-07-21,Buenos Aires,12
+2022-07-21,Melbourne,10
+2022-07-21,Shanghai,10
+2022-07-21,Tokyo,5
+2022-07-21,Seoul,18
+2022-07-21,Johannesburg,8
+2022-07-22,Bangalore,15
+2022-07-22,Amsterdam,8
+2022-07-22,Warsaw,3
+2022-07-22,London,11
+2022-07-22,Paris,19
+2022-07-22,New York,8
+2022-07-22,Los Angeles,6
+2022-07-22,São Paulo,8
+2022-07-22,Buenos Aires,10
+2022-07-22,Melbourne,12
+2022-07-22,Shanghai,15
+2022-07-22,Tokyo,9
+2022-07-22,Seoul,15
+2022-07-22,Johannesburg,7
+2022-07-23,Bangalore,10
+2022-07-23,Amsterdam,8
+2022-07-23,Warsaw,8
+2022-07-23,London,12
+2022-07-23,Paris,5
+2022-07-23,New York,13
+2022-07-23,Los Angeles,18
+2022-07-23,São Paulo,13
+2022-07-23,Buenos Aires,4
+2022-07-23,Melbourne,16
+2022-07-23,Shanghai,7
+2022-07-23,Tokyo,15
+2022-07-23,Seoul,6
+2022-07-23,Johannesburg,6
+2022-07-24,Bangalore,14
+2022-07-24,Amsterdam,16
+2022-07-24,Warsaw,13
+2022-07-24,London,13
+2022-07-24,Paris,2
+2022-07-24,New York,9
+2022-07-24,Los Angeles,7
+2022-07-24,São Paulo,15
+2022-07-24,Buenos Aires,11
+2022-07-24,Melbourne,10
+2022-07-24,Shanghai,1
+2022-07-24,Tokyo,14
+2022-07-24,Seoul,11
+2022-07-24,Johannesburg,8
+2022-07-25,Bangalore,13
+2022-07-25,Amsterdam,9
+2022-07-25,Warsaw,12
+2022-07-25,London,8
+2022-07-25,Paris,12
+2022-07-25,New York,7
+2022-07-25,Los Angeles,11
+2022-07-25,São Paulo,6
+2022-07-25,Buenos Aires,10
+2022-07-25,Melbourne,8
+2022-07-25,Shanghai,10
+2022-07-25,Tokyo,11
+2022-07-25,Seoul,12
+2022-07-25,Johannesburg,10
+2022-07-26,Bangalore,1
+2022-07-26,Amsterdam,12
+2022-07-26,Warsaw,8
+2022-07-26,London,2
+2022-07-26,Paris,12
+2022-07-26,New York,14
+2022-07-26,Los Angeles,17
+2022-07-26,São Paulo,7
+2022-07-26,Buenos Aires,9
+2022-07-26,Melbourne,12
+2022-07-26,Shanghai,14
+2022-07-26,Tokyo,1
+2022-07-26,Seoul,15
+2022-07-26,Johannesburg,10
+2022-07-27,Bangalore,1
+2022-07-27,Amsterdam,11
+2022-07-27,Warsaw,4
+2022-07-27,London,13
+2022-07-27,Paris,5
+2022-07-27,New York,6
+2022-07-27,Los Angeles,5
+2022-07-27,São Paulo,16
+2022-07-27,Buenos Aires,10
+2022-07-27,Melbourne,7
+2022-07-27,Shanghai,3
+2022-07-27,Tokyo,2
+2022-07-27,Seoul,1
+2022-07-27,Johannesburg,13
+2022-07-28,Bangalore,10
+2022-07-28,Amsterdam,9
+2022-07-28,Warsaw,17
+2022-07-28,London,2
+2022-07-28,Paris,9
+2022-07-28,New York,14
+2022-07-28,Los Angeles,7
+2022-07-28,São Paulo,1
+2022-07-28,Buenos Aires,9
+2022-07-28,Melbourne,5
+2022-07-28,Shanghai,18
+2022-07-28,Tokyo,7
+2022-07-28,Seoul,10
+2022-07-28,Johannesburg,16
+2022-07-29,Bangalore,5
+2022-07-29,Amsterdam,1
+2022-07-29,Warsaw,11
+2022-07-29,London,13
+2022-07-29,Paris,8
+2022-07-29,New York,21
+2022-07-29,Los Angeles,7
+2022-07-29,São Paulo,7
+2022-07-29,Buenos Aires,8
+2022-07-29,Melbourne,7
+2022-07-29,Shanghai,13
+2022-07-29,Tokyo,15
+2022-07-29,Seoul,11
+2022-07-29,Johannesburg,10
+2022-07-30,Bangalore,12
+2022-07-30,Amsterdam,1
+2022-07-30,Warsaw,10
+2022-07-30,London,13
+2022-07-30,Paris,6
+2022-07-30,New York,10
+2022-07-30,Los Angeles,4
+2022-07-30,São Paulo,4
+2022-07-30,Buenos Aires,10
+2022-07-30,Melbourne,8
+2022-07-30,Shanghai,20
+2022-07-30,Tokyo,6
+2022-07-30,Seoul,11
+2022-07-30,Johannesburg,9
+2022-07-31,Bangalore,11
+2022-07-31,Amsterdam,18
+2022-07-31,Warsaw,9
+2022-07-31,London,12
+2022-07-31,Paris,13
+2022-07-31,New York,17
+2022-07-31,Los Angeles,1
+2022-07-31,São Paulo,8
+2022-07-31,Buenos Aires,10
+2022-07-31,Melbourne,11
+2022-07-31,Shanghai,18
+2022-07-31,Tokyo,13
+2022-07-31,Seoul,14
+2022-07-31,Johannesburg,13
+2022-08-01,Bangalore,13
+2022-08-01,Amsterdam,19
+2022-08-01,Warsaw,17
+2022-08-01,London,16
+2022-08-01,Paris,13
+2022-08-01,New York,5
+2022-08-01,Los Angeles,3
+2022-08-01,São Paulo,7
+2022-08-01,Buenos Aires,12
+2022-08-01,Melbourne,3
+2022-08-01,Shanghai,9
+2022-08-01,Tokyo,8
+2022-08-01,Seoul,13
+2022-08-01,Johannesburg,10
+2022-08-02,Bangalore,9
+2022-08-02,Amsterdam,6
+2022-08-02,Warsaw,13
+2022-08-02,London,18
+2022-08-02,Paris,9
+2022-08-02,New York,5
+2022-08-02,Los Angeles,1
+2022-08-02,São Paulo,9
+2022-08-02,Buenos Aires,10
+2022-08-02,Melbourne,9
+2022-08-02,Shanghai,8
+2022-08-02,Tokyo,18
+2022-08-02,Seoul,15
+2022-08-02,Johannesburg,13
+2022-08-03,Bangalore,6
+2022-08-03,Amsterdam,7
+2022-08-03,Warsaw,1
+2022-08-03,London,11
+2022-08-03,Paris,12
+2022-08-03,New York,11
+2022-08-03,Los Angeles,1
+2022-08-03,São Paulo,6
+2022-08-03,Buenos Aires,11
+2022-08-03,Melbourne,8
+2022-08-03,Shanghai,11
+2022-08-03,Tokyo,15
+2022-08-03,Seoul,3
+2022-08-03,Johannesburg,18
+2022-08-04,Bangalore,1
+2022-08-04,Amsterdam,12
+2022-08-04,Warsaw,15
+2022-08-04,London,7
+2022-08-04,Paris,23
+2022-08-04,New York,12
+2022-08-04,Los Angeles,10
+2022-08-04,São Paulo,12
+2022-08-04,Buenos Aires,7
+2022-08-04,Melbourne,11
+2022-08-04,Shanghai,15
+2022-08-04,Tokyo,12
+2022-08-04,Seoul,14
+2022-08-04,Johannesburg,10
+2022-08-05,Bangalore,5
+2022-08-05,Amsterdam,8
+2022-08-05,Warsaw,4
+2022-08-05,London,22
+2022-08-05,Paris,5
+2022-08-05,New York,17
+2022-08-05,Los Angeles,9
+2022-08-05,São Paulo,5
+2022-08-05,Buenos Aires,8
+2022-08-05,Melbourne,1
+2022-08-05,Shanghai,9
+2022-08-05,Tokyo,15
+2022-08-05,Seoul,7
+2022-08-05,Johannesburg,12
+2022-08-06,Bangalore,9
+2022-08-06,Amsterdam,10
+2022-08-06,Warsaw,6
+2022-08-06,London,10
+2022-08-06,Paris,1
+2022-08-06,New York,8
+2022-08-06,Los Angeles,11
+2022-08-06,São Paulo,4
+2022-08-06,Buenos Aires,12
+2022-08-06,Melbourne,1
+2022-08-06,Shanghai,14
+2022-08-06,Tokyo,15
+2022-08-06,Seoul,15
+2022-08-06,Johannesburg,4
+2022-08-07,Bangalore,11
+2022-08-07,Amsterdam,7
+2022-08-07,Warsaw,10
+2022-08-07,London,12
+2022-08-07,Paris,8
+2022-08-07,New York,1
+2022-08-07,Los Angeles,14
+2022-08-07,São Paulo,8
+2022-08-07,Buenos Aires,21
+2022-08-07,Melbourne,7
+2022-08-07,Shanghai,6
+2022-08-07,Tokyo,11
+2022-08-07,Seoul,7
+2022-08-07,Johannesburg,17
+2022-08-08,Bangalore,6
+2022-08-08,Amsterdam,11
+2022-08-08,Warsaw,12
+2022-08-08,London,7
+2022-08-08,Paris,12
+2022-08-08,New York,5
+2022-08-08,Los Angeles,7
+2022-08-08,São Paulo,11
+2022-08-08,Buenos Aires,2
+2022-08-08,Melbourne,4
+2022-08-08,Shanghai,6
+2022-08-08,Tokyo,10
+2022-08-08,Seoul,10
+2022-08-08,Johannesburg,9
+2022-08-09,Bangalore,15
+2022-08-09,Amsterdam,5
+2022-08-09,Warsaw,6
+2022-08-09,London,9
+2022-08-09,Paris,10
+2022-08-09,New York,15
+2022-08-09,Los Angeles,9
+2022-08-09,São Paulo,11
+2022-08-09,Buenos Aires,7
+2022-08-09,Melbourne,15
+2022-08-09,Shanghai,12
+2022-08-09,Tokyo,2
+2022-08-09,Seoul,3
+2022-08-09,Johannesburg,16
+2022-08-10,Bangalore,2
+2022-08-10,Amsterdam,10
+2022-08-10,Warsaw,15
+2022-08-10,London,3
+2022-08-10,Paris,9
+2022-08-10,New York,1
+2022-08-10,Los Angeles,11
+2022-08-10,São Paulo,9
+2022-08-10,Buenos Aires,18
+2022-08-10,Melbourne,14
+2022-08-10,Shanghai,11
+2022-08-10,Tokyo,16
+2022-08-10,Seoul,9
+2022-08-10,Johannesburg,13
+2022-08-11,Bangalore,9
+2022-08-11,Amsterdam,17
+2022-08-11,Warsaw,15
+2022-08-11,London,7
+2022-08-11,Paris,12
+2022-08-11,New York,20
+2022-08-11,Los Angeles,12
+2022-08-11,São Paulo,2
+2022-08-11,Buenos Aires,3
+2022-08-11,Melbourne,10
+2022-08-11,Shanghai,9
+2022-08-11,Tokyo,10
+2022-08-11,Seoul,1
+2022-08-11,Johannesburg,9
+2022-08-12,Bangalore,3
+2022-08-12,Amsterdam,8
+2022-08-12,Warsaw,14
+2022-08-12,London,14
+2022-08-12,Paris,1
+2022-08-12,New York,8
+2022-08-12,Los Angeles,8
+2022-08-12,São Paulo,12
+2022-08-12,Buenos Aires,7
+2022-08-12,Melbourne,2
+2022-08-12,Shanghai,7
+2022-08-12,Tokyo,12
+2022-08-12,Seoul,1
+2022-08-12,Johannesburg,8
+2022-08-13,Bangalore,1
+2022-08-13,Amsterdam,7
+2022-08-13,Warsaw,6
+2022-08-13,London,7
+2022-08-13,Paris,14
+2022-08-13,New York,11
+2022-08-13,Los Angeles,3
+2022-08-13,São Paulo,14
+2022-08-13,Buenos Aires,1
+2022-08-13,Melbourne,10
+2022-08-13,Shanghai,1
+2022-08-13,Tokyo,15
+2022-08-13,Seoul,10
+2022-08-13,Johannesburg,17
+2022-08-14,Bangalore,1
+2022-08-14,Amsterdam,9
+2022-08-14,Warsaw,18
+2022-08-14,London,12
+2022-08-14,Paris,14
+2022-08-14,New York,11
+2022-08-14,Los Angeles,7
+2022-08-14,São Paulo,1
+2022-08-14,Buenos Aires,22
+2022-08-14,Melbourne,20
+2022-08-14,Shanghai,13
+2022-08-14,Tokyo,8
+2022-08-14,Seoul,10
+2022-08-14,Johannesburg,5
+2022-08-15,Bangalore,11
+2022-08-15,Amsterdam,3
+2022-08-15,Warsaw,9
+2022-08-15,London,11
+2022-08-15,Paris,11
+2022-08-15,New York,16
+2022-08-15,Los Angeles,5
+2022-08-15,São Paulo,5
+2022-08-15,Buenos Aires,10
+2022-08-15,Melbourne,12
+2022-08-15,Shanghai,7
+2022-08-15,Tokyo,12
+2022-08-15,Seoul,11
+2022-08-15,Johannesburg,3
+2022-08-16,Bangalore,20
+2022-08-16,Amsterdam,7
+2022-08-16,Warsaw,12
+2022-08-16,London,2
+2022-08-16,Paris,16
+2022-08-16,New York,11
+2022-08-16,Los Angeles,2
+2022-08-16,São Paulo,13
+2022-08-16,Buenos Aires,4
+2022-08-16,Melbourne,9
+2022-08-16,Shanghai,7
+2022-08-16,Tokyo,14
+2022-08-16,Seoul,11
+2022-08-16,Johannesburg,14
+2022-08-17,Bangalore,12
+2022-08-17,Amsterdam,11
+2022-08-17,Warsaw,14
+2022-08-17,London,7
+2022-08-17,Paris,14
+2022-08-17,New York,19
+2022-08-17,Los Angeles,2
+2022-08-17,São Paulo,5
+2022-08-17,Buenos Aires,4
+2022-08-17,Melbourne,11
+2022-08-17,Shanghai,4
+2022-08-17,Tokyo,19
+2022-08-17,Seoul,1
+2022-08-17,Johannesburg,1
+2022-08-18,Bangalore,5
+2022-08-18,Amsterdam,8
+2022-08-18,Warsaw,12
+2022-08-18,London,2
+2022-08-18,Paris,9
+2022-08-18,New York,6
+2022-08-18,Los Angeles,6
+2022-08-18,São Paulo,17
+2022-08-18,Buenos Aires,17
+2022-08-18,Melbourne,13
+2022-08-18,Shanghai,12
+2022-08-18,Tokyo,7
+2022-08-18,Seoul,6
+2022-08-18,Johannesburg,11
+2022-08-19,Bangalore,7
+2022-08-19,Amsterdam,9
+2022-08-19,Warsaw,10
+2022-08-19,London,1
+2022-08-19,Paris,8
+2022-08-19,New York,2
+2022-08-19,Los Angeles,4
+2022-08-19,São Paulo,1
+2022-08-19,Buenos Aires,5
+2022-08-19,Melbourne,1
+2022-08-19,Shanghai,6
+2022-08-19,Tokyo,5
+2022-08-19,Seoul,14
+2022-08-19,Johannesburg,14
+2022-08-20,Bangalore,12
+2022-08-20,Amsterdam,15
+2022-08-20,Warsaw,7
+2022-08-20,London,14
+2022-08-20,Paris,9
+2022-08-20,New York,11
+2022-08-20,Los Angeles,16
+2022-08-20,São Paulo,9
+2022-08-20,Buenos Aires,5
+2022-08-20,Melbourne,17
+2022-08-20,Shanghai,9
+2022-08-20,Tokyo,12
+2022-08-20,Seoul,10
+2022-08-20,Johannesburg,5
+2022-08-21,Bangalore,11
+2022-08-21,Amsterdam,13
+2022-08-21,Warsaw,9
+2022-08-21,London,14
+2022-08-21,Paris,6
+2022-08-21,New York,9
+2022-08-21,Los Angeles,11
+2022-08-21,São Paulo,4
+2022-08-21,Buenos Aires,2
+2022-08-21,Melbourne,5
+2022-08-21,Shanghai,9
+2022-08-21,Tokyo,12
+2022-08-21,Seoul,17
+2022-08-21,Johannesburg,8
+2022-08-22,Bangalore,4
+2022-08-22,Amsterdam,14
+2022-08-22,Warsaw,8
+2022-08-22,London,9
+2022-08-22,Paris,14
+2022-08-22,New York,14
+2022-08-22,Los Angeles,6
+2022-08-22,São Paulo,7
+2022-08-22,Buenos Aires,4
+2022-08-22,Melbourne,11
+2022-08-22,Shanghai,12
+2022-08-22,Tokyo,16
+2022-08-22,Seoul,9
+2022-08-22,Johannesburg,7
+2022-08-23,Bangalore,12
+2022-08-23,Amsterdam,13
+2022-08-23,Warsaw,10
+2022-08-23,London,9
+2022-08-23,Paris,11
+2022-08-23,New York,14
+2022-08-23,Los Angeles,10
+2022-08-23,São Paulo,21
+2022-08-23,Buenos Aires,13
+2022-08-23,Melbourne,9
+2022-08-23,Shanghai,7
+2022-08-23,Tokyo,10
+2022-08-23,Seoul,8
+2022-08-23,Johannesburg,18
+2022-08-24,Bangalore,12
+2022-08-24,Amsterdam,7
+2022-08-24,Warsaw,12
+2022-08-24,London,12
+2022-08-24,Paris,5
+2022-08-24,New York,5
+2022-08-24,Los Angeles,20
+2022-08-24,São Paulo,4
+2022-08-24,Buenos Aires,11
+2022-08-24,Melbourne,8
+2022-08-24,Shanghai,9
+2022-08-24,Tokyo,16
+2022-08-24,Seoul,15
+2022-08-24,Johannesburg,8
+2022-08-25,Bangalore,11
+2022-08-25,Amsterdam,9
+2022-08-25,Warsaw,7
+2022-08-25,London,1
+2022-08-25,Paris,20
+2022-08-25,New York,16
+2022-08-25,Los Angeles,16
+2022-08-25,São Paulo,1
+2022-08-25,Buenos Aires,11
+2022-08-25,Melbourne,14
+2022-08-25,Shanghai,13
+2022-08-25,Tokyo,11
+2022-08-25,Seoul,8
+2022-08-25,Johannesburg,11
+2022-08-26,Bangalore,9
+2022-08-26,Amsterdam,12
+2022-08-26,Warsaw,10
+2022-08-26,London,5
+2022-08-26,Paris,15
+2022-08-26,New York,14
+2022-08-26,Los Angeles,10
+2022-08-26,São Paulo,15
+2022-08-26,Buenos Aires,9
+2022-08-26,Melbourne,3
+2022-08-26,Shanghai,20
+2022-08-26,Tokyo,17
+2022-08-26,Seoul,8
+2022-08-26,Johannesburg,5
+2022-08-27,Bangalore,9
+2022-08-27,Amsterdam,14
+2022-08-27,Warsaw,11
+2022-08-27,London,14
+2022-08-27,Paris,1
+2022-08-27,New York,1
+2022-08-27,Los Angeles,13
+2022-08-27,São Paulo,7
+2022-08-27,Buenos Aires,6
+2022-08-27,Melbourne,10
+2022-08-27,Shanghai,9
+2022-08-27,Tokyo,5
+2022-08-27,Seoul,4
+2022-08-27,Johannesburg,8
+2022-08-28,Bangalore,10
+2022-08-28,Amsterdam,1
+2022-08-28,Warsaw,3
+2022-08-28,London,14
+2022-08-28,Paris,14
+2022-08-28,New York,7
+2022-08-28,Los Angeles,14
+2022-08-28,São Paulo,12
+2022-08-28,Buenos Aires,11
+2022-08-28,Melbourne,2
+2022-08-28,Shanghai,7
+2022-08-28,Tokyo,5
+2022-08-28,Seoul,4
+2022-08-28,Johannesburg,5
+2022-08-29,Bangalore,12
+2022-08-29,Amsterdam,4
+2022-08-29,Warsaw,11
+2022-08-29,London,8
+2022-08-29,Paris,11
+2022-08-29,New York,6
+2022-08-29,Los Angeles,5
+2022-08-29,São Paulo,3
+2022-08-29,Buenos Aires,4
+2022-08-29,Melbourne,8
+2022-08-29,Shanghai,12
+2022-08-29,Tokyo,3
+2022-08-29,Seoul,2
+2022-08-29,Johannesburg,8
+2022-08-30,Bangalore,16
+2022-08-30,Amsterdam,9
+2022-08-30,Warsaw,6
+2022-08-30,London,22
+2022-08-30,Paris,11
+2022-08-30,New York,15
+2022-08-30,Los Angeles,1
+2022-08-30,São Paulo,2
+2022-08-30,Buenos Aires,21
+2022-08-30,Melbourne,8
+2022-08-30,Shanghai,8
+2022-08-30,Tokyo,14
+2022-08-30,Seoul,15
+2022-08-30,Johannesburg,8
+2022-08-31,Bangalore,15
+2022-08-31,Amsterdam,15
+2022-08-31,Warsaw,21
+2022-08-31,London,10
+2022-08-31,Paris,14
+2022-08-31,New York,8
+2022-08-31,Los Angeles,3
+2022-08-31,São Paulo,11
+2022-08-31,Buenos Aires,3
+2022-08-31,Melbourne,5
+2022-08-31,Shanghai,18
+2022-08-31,Tokyo,8
+2022-08-31,Seoul,6
+2022-08-31,Johannesburg,18
+2022-09-01,Bangalore,23
+2022-09-01,Amsterdam,10
+2022-09-01,Warsaw,3
+2022-09-01,London,13
+2022-09-01,Paris,9
+2022-09-01,New York,3
+2022-09-01,Los Angeles,20
+2022-09-01,São Paulo,8
+2022-09-01,Buenos Aires,6
+2022-09-01,Melbourne,14
+2022-09-01,Shanghai,7
+2022-09-01,Tokyo,10
+2022-09-01,Seoul,12
+2022-09-01,Johannesburg,7
+2022-09-02,Bangalore,17
+2022-09-02,Amsterdam,11
+2022-09-02,Warsaw,10
+2022-09-02,London,8
+2022-09-02,Paris,8
+2022-09-02,New York,14
+2022-09-02,Los Angeles,4
+2022-09-02,São Paulo,5
+2022-09-02,Buenos Aires,17
+2022-09-02,Melbourne,2
+2022-09-02,Shanghai,13
+2022-09-02,Tokyo,14
+2022-09-02,Seoul,9
+2022-09-02,Johannesburg,3
+2022-09-03,Bangalore,14
+2022-09-03,Amsterdam,1
+2022-09-03,Warsaw,16
+2022-09-03,London,2
+2022-09-03,Paris,12
+2022-09-03,New York,1
+2022-09-03,Los Angeles,7
+2022-09-03,São Paulo,2
+2022-09-03,Buenos Aires,10
+2022-09-03,Melbourne,10
+2022-09-03,Shanghai,12
+2022-09-03,Tokyo,6
+2022-09-03,Seoul,6
+2022-09-03,Johannesburg,14
+2022-09-04,Bangalore,1
+2022-09-04,Amsterdam,14
+2022-09-04,Warsaw,2
+2022-09-04,London,9
+2022-09-04,Paris,3
+2022-09-04,New York,7
+2022-09-04,Los Angeles,12
+2022-09-04,São Paulo,7
+2022-09-04,Buenos Aires,12
+2022-09-04,Melbourne,7
+2022-09-04,Shanghai,2
+2022-09-04,Tokyo,6
+2022-09-04,Seoul,8
+2022-09-04,Johannesburg,8
+2022-09-05,Bangalore,9
+2022-09-05,Amsterdam,16
+2022-09-05,Warsaw,9
+2022-09-05,London,10
+2022-09-05,Paris,1
+2022-09-05,New York,14
+2022-09-05,Los Angeles,13
+2022-09-05,São Paulo,13
+2022-09-05,Buenos Aires,15
+2022-09-05,Melbourne,13
+2022-09-05,Shanghai,6
+2022-09-05,Tokyo,11
+2022-09-05,Seoul,14
+2022-09-05,Johannesburg,3
+2022-09-06,Bangalore,6
+2022-09-06,Amsterdam,13
+2022-09-06,Warsaw,7
+2022-09-06,London,12
+2022-09-06,Paris,7
+2022-09-06,New York,11
+2022-09-06,Los Angeles,13
+2022-09-06,São Paulo,9
+2022-09-06,Buenos Aires,9
+2022-09-06,Melbourne,14
+2022-09-06,Shanghai,10
+2022-09-06,Tokyo,6
+2022-09-06,Seoul,3
+2022-09-06,Johannesburg,17
+2022-09-07,Bangalore,5
+2022-09-07,Amsterdam,8
+2022-09-07,Warsaw,12
+2022-09-07,London,4
+2022-09-07,Paris,5
+2022-09-07,New York,12
+2022-09-07,Los Angeles,8
+2022-09-07,São Paulo,4
+2022-09-07,Buenos Aires,15
+2022-09-07,Melbourne,2
+2022-09-07,Shanghai,7
+2022-09-07,Tokyo,5
+2022-09-07,Seoul,4
+2022-09-07,Johannesburg,16
+2022-09-08,Bangalore,4
+2022-09-08,Amsterdam,8
+2022-09-08,Warsaw,14
+2022-09-08,London,8
+2022-09-08,Paris,1
+2022-09-08,New York,8
+2022-09-08,Los Angeles,7
+2022-09-08,São Paulo,3
+2022-09-08,Buenos Aires,15
+2022-09-08,Melbourne,18
+2022-09-08,Shanghai,6
+2022-09-08,Tokyo,11
+2022-09-08,Seoul,11
+2022-09-08,Johannesburg,15
+2022-09-09,Bangalore,4
+2022-09-09,Amsterdam,13
+2022-09-09,Warsaw,10
+2022-09-09,London,3
+2022-09-09,Paris,20
+2022-09-09,New York,6
+2022-09-09,Los Angeles,6
+2022-09-09,São Paulo,4
+2022-09-09,Buenos Aires,13
+2022-09-09,Melbourne,16
+2022-09-09,Shanghai,15
+2022-09-09,Tokyo,6
+2022-09-09,Seoul,15
+2022-09-09,Johannesburg,16
+2022-09-10,Bangalore,15
+2022-09-10,Amsterdam,3
+2022-09-10,Warsaw,6
+2022-09-10,London,3
+2022-09-10,Paris,8
+2022-09-10,New York,1
+2022-09-10,Los Angeles,12
+2022-09-10,São Paulo,8
+2022-09-10,Buenos Aires,9
+2022-09-10,Melbourne,6
+2022-09-10,Shanghai,4
+2022-09-10,Tokyo,9
+2022-09-10,Seoul,6
+2022-09-10,Johannesburg,8
+2022-09-11,Bangalore,14
+2022-09-11,Amsterdam,11
+2022-09-11,Warsaw,9
+2022-09-11,London,8
+2022-09-11,Paris,16
+2022-09-11,New York,10
+2022-09-11,Los Angeles,10
+2022-09-11,São Paulo,4
+2022-09-11,Buenos Aires,14
+2022-09-11,Melbourne,7
+2022-09-11,Shanghai,4
+2022-09-11,Tokyo,16
+2022-09-11,Seoul,7
+2022-09-11,Johannesburg,1
+2022-09-12,Bangalore,3
+2022-09-12,Amsterdam,4
+2022-09-12,Warsaw,13
+2022-09-12,London,5
+2022-09-12,Paris,1
+2022-09-12,New York,10
+2022-09-12,Los Angeles,7
+2022-09-12,São Paulo,17
+2022-09-12,Buenos Aires,11
+2022-09-12,Melbourne,14
+2022-09-12,Shanghai,10
+2022-09-12,Tokyo,7
+2022-09-12,Seoul,16
+2022-09-12,Johannesburg,6
+2022-09-13,Bangalore,8
+2022-09-13,Amsterdam,4
+2022-09-13,Warsaw,7
+2022-09-13,London,12
+2022-09-13,Paris,7
+2022-09-13,New York,5
+2022-09-13,Los Angeles,8
+2022-09-13,São Paulo,10
+2022-09-13,Buenos Aires,11
+2022-09-13,Melbourne,12
+2022-09-13,Shanghai,17
+2022-09-13,Tokyo,5
+2022-09-13,Seoul,1
+2022-09-13,Johannesburg,11
+2022-09-14,Bangalore,2
+2022-09-14,Amsterdam,13
+2022-09-14,Warsaw,26
+2022-09-14,London,11
+2022-09-14,Paris,8
+2022-09-14,New York,6
+2022-09-14,Los Angeles,9
+2022-09-14,São Paulo,6
+2022-09-14,Buenos Aires,6
+2022-09-14,Melbourne,7
+2022-09-14,Shanghai,10
+2022-09-14,Tokyo,17
+2022-09-14,Seoul,11
+2022-09-14,Johannesburg,9
+2022-09-15,Bangalore,13
+2022-09-15,Amsterdam,3
+2022-09-15,Warsaw,9
+2022-09-15,London,10
+2022-09-15,Paris,7
+2022-09-15,New York,13
+2022-09-15,Los Angeles,1
+2022-09-15,São Paulo,12
+2022-09-15,Buenos Aires,3
+2022-09-15,Melbourne,12
+2022-09-15,Shanghai,10
+2022-09-15,Tokyo,7
+2022-09-15,Seoul,18
+2022-09-15,Johannesburg,11
+2022-09-16,Bangalore,1
+2022-09-16,Amsterdam,15
+2022-09-16,Warsaw,4
+2022-09-16,London,3
+2022-09-16,Paris,19
+2022-09-16,New York,13
+2022-09-16,Los Angeles,11
+2022-09-16,São Paulo,1
+2022-09-16,Buenos Aires,8
+2022-09-16,Melbourne,3
+2022-09-16,Shanghai,10
+2022-09-16,Tokyo,7
+2022-09-16,Seoul,9
+2022-09-16,Johannesburg,10
+2022-09-17,Bangalore,10
+2022-09-17,Amsterdam,12
+2022-09-17,Warsaw,8
+2022-09-17,London,7
+2022-09-17,Paris,2
+2022-09-17,New York,12
+2022-09-17,Los Angeles,14
+2022-09-17,São Paulo,4
+2022-09-17,Buenos Aires,15
+2022-09-17,Melbourne,1
+2022-09-17,Shanghai,8
+2022-09-17,Tokyo,10
+2022-09-17,Seoul,1
+2022-09-17,Johannesburg,12
+2022-09-18,Bangalore,5
+2022-09-18,Amsterdam,18
+2022-09-18,Warsaw,3
+2022-09-18,London,5
+2022-09-18,Paris,9
+2022-09-18,New York,18
+2022-09-18,Los Angeles,7
+2022-09-18,São Paulo,16
+2022-09-18,Buenos Aires,11
+2022-09-18,Melbourne,6
+2022-09-18,Shanghai,11
+2022-09-18,Tokyo,9
+2022-09-18,Seoul,13
+2022-09-18,Johannesburg,8
+2022-09-19,Bangalore,4
+2022-09-19,Amsterdam,11
+2022-09-19,Warsaw,1
+2022-09-19,London,7
+2022-09-19,Paris,16
+2022-09-19,New York,9
+2022-09-19,Los Angeles,3
+2022-09-19,São Paulo,16
+2022-09-19,Buenos Aires,11
+2022-09-19,Melbourne,16
+2022-09-19,Shanghai,8
+2022-09-19,Tokyo,5
+2022-09-19,Seoul,10
+2022-09-19,Johannesburg,6
+2022-09-20,Bangalore,13
+2022-09-20,Amsterdam,20
+2022-09-20,Warsaw,6
+2022-09-20,London,14
+2022-09-20,Paris,5
+2022-09-20,New York,20
+2022-09-20,Los Angeles,15
+2022-09-20,São Paulo,8
+2022-09-20,Buenos Aires,1
+2022-09-20,Melbourne,14
+2022-09-20,Shanghai,8
+2022-09-20,Tokyo,14
+2022-09-20,Seoul,12
+2022-09-20,Johannesburg,19
+2022-09-21,Bangalore,1
+2022-09-21,Amsterdam,10
+2022-09-21,Warsaw,11
+2022-09-21,London,13
+2022-09-21,Paris,5
+2022-09-21,New York,1
+2022-09-21,Los Angeles,10
+2022-09-21,São Paulo,12
+2022-09-21,Buenos Aires,11
+2022-09-21,Melbourne,5
+2022-09-21,Shanghai,13
+2022-09-21,Tokyo,8
+2022-09-21,Seoul,9
+2022-09-21,Johannesburg,1
+2022-09-22,Bangalore,15
+2022-09-22,Amsterdam,13
+2022-09-22,Warsaw,12
+2022-09-22,London,13
+2022-09-22,Paris,20
+2022-09-22,New York,3
+2022-09-22,Los Angeles,8
+2022-09-22,São Paulo,2
+2022-09-22,Buenos Aires,6
+2022-09-22,Melbourne,12
+2022-09-22,Shanghai,6
+2022-09-22,Tokyo,14
+2022-09-22,Seoul,3
+2022-09-22,Johannesburg,11
+2022-09-23,Bangalore,13
+2022-09-23,Amsterdam,1
+2022-09-23,Warsaw,1
+2022-09-23,London,8
+2022-09-23,Paris,12
+2022-09-23,New York,12
+2022-09-23,Los Angeles,1
+2022-09-23,São Paulo,9
+2022-09-23,Buenos Aires,9
+2022-09-23,Melbourne,10
+2022-09-23,Shanghai,1
+2022-09-23,Tokyo,10
+2022-09-23,Seoul,26
+2022-09-23,Johannesburg,10
+2022-09-24,Bangalore,11
+2022-09-24,Amsterdam,9
+2022-09-24,Warsaw,8
+2022-09-24,London,3
+2022-09-24,Paris,6
+2022-09-24,New York,14
+2022-09-24,Los Angeles,9
+2022-09-24,São Paulo,3
+2022-09-24,Buenos Aires,10
+2022-09-24,Melbourne,14
+2022-09-24,Shanghai,6
+2022-09-24,Tokyo,12
+2022-09-24,Seoul,10
+2022-09-24,Johannesburg,7
+2022-09-25,Bangalore,9
+2022-09-25,Amsterdam,14
+2022-09-25,Warsaw,8
+2022-09-25,London,10
+2022-09-25,Paris,8
+2022-09-25,New York,1
+2022-09-25,Los Angeles,11
+2022-09-25,São Paulo,15
+2022-09-25,Buenos Aires,19
+2022-09-25,Melbourne,14
+2022-09-25,Shanghai,5
+2022-09-25,Tokyo,11
+2022-09-25,Seoul,12
+2022-09-25,Johannesburg,7
+2022-09-26,Bangalore,14
+2022-09-26,Amsterdam,6
+2022-09-26,Warsaw,16
+2022-09-26,London,6
+2022-09-26,Paris,6
+2022-09-26,New York,15
+2022-09-26,Los Angeles,12
+2022-09-26,São Paulo,18
+2022-09-26,Buenos Aires,2
+2022-09-26,Melbourne,8
+2022-09-26,Shanghai,9
+2022-09-26,Tokyo,4
+2022-09-26,Seoul,5
+2022-09-26,Johannesburg,9
+2022-09-27,Bangalore,10
+2022-09-27,Amsterdam,6
+2022-09-27,Warsaw,10
+2022-09-27,London,5
+2022-09-27,Paris,7
+2022-09-27,New York,2
+2022-09-27,Los Angeles,3
+2022-09-27,São Paulo,16
+2022-09-27,Buenos Aires,8
+2022-09-27,Melbourne,12
+2022-09-27,Shanghai,9
+2022-09-27,Tokyo,11
+2022-09-27,Seoul,11
+2022-09-27,Johannesburg,15
+2022-09-28,Bangalore,14
+2022-09-28,Amsterdam,19
+2022-09-28,Warsaw,12
+2022-09-28,London,8
+2022-09-28,Paris,11
+2022-09-28,New York,8
+2022-09-28,Los Angeles,14
+2022-09-28,São Paulo,7
+2022-09-28,Buenos Aires,1
+2022-09-28,Melbourne,9
+2022-09-28,Shanghai,8
+2022-09-28,Tokyo,10
+2022-09-28,Seoul,16
+2022-09-28,Johannesburg,9
+2022-09-29,Bangalore,17
+2022-09-29,Amsterdam,14
+2022-09-29,Warsaw,17
+2022-09-29,London,4
+2022-09-29,Paris,14
+2022-09-29,New York,1
+2022-09-29,Los Angeles,12
+2022-09-29,São Paulo,8
+2022-09-29,Buenos Aires,18
+2022-09-29,Melbourne,7
+2022-09-29,Shanghai,13
+2022-09-29,Tokyo,11
+2022-09-29,Seoul,8
+2022-09-29,Johannesburg,5
+2022-09-30,Bangalore,13
+2022-09-30,Amsterdam,9
+2022-09-30,Warsaw,8
+2022-09-30,London,12
+2022-09-30,Paris,12
+2022-09-30,New York,6
+2022-09-30,Los Angeles,4
+2022-09-30,São Paulo,22
+2022-09-30,Buenos Aires,10
+2022-09-30,Melbourne,6
+2022-09-30,Shanghai,21
+2022-09-30,Tokyo,26
+2022-09-30,Seoul,9
+2022-09-30,Johannesburg,8
+2022-10-01,Bangalore,13
+2022-10-01,Amsterdam,17
+2022-10-01,Warsaw,5
+2022-10-01,London,5
+2022-10-01,Paris,1
+2022-10-01,New York,10
+2022-10-01,Los Angeles,17
+2022-10-01,São Paulo,5
+2022-10-01,Buenos Aires,11
+2022-10-01,Melbourne,6
+2022-10-01,Shanghai,8
+2022-10-01,Tokyo,9
+2022-10-01,Seoul,12
+2022-10-01,Johannesburg,11
+2022-10-02,Bangalore,16
+2022-10-02,Amsterdam,12
+2022-10-02,Warsaw,13
+2022-10-02,London,7
+2022-10-02,Paris,9
+2022-10-02,New York,13
+2022-10-02,Los Angeles,15
+2022-10-02,São Paulo,10
+2022-10-02,Buenos Aires,16
+2022-10-02,Melbourne,9
+2022-10-02,Shanghai,12
+2022-10-02,Tokyo,13
+2022-10-02,Seoul,11
+2022-10-02,Johannesburg,9
+2022-10-03,Bangalore,1
+2022-10-03,Amsterdam,12
+2022-10-03,Warsaw,14
+2022-10-03,London,6
+2022-10-03,Paris,10
+2022-10-03,New York,11
+2022-10-03,Los Angeles,13
+2022-10-03,São Paulo,2
+2022-10-03,Buenos Aires,8
+2022-10-03,Melbourne,1
+2022-10-03,Shanghai,11
+2022-10-03,Tokyo,1
+2022-10-03,Seoul,1
+2022-10-03,Johannesburg,13
+2022-10-04,Bangalore,5
+2022-10-04,Amsterdam,9
+2022-10-04,Warsaw,8
+2022-10-04,London,4
+2022-10-04,Paris,7
+2022-10-04,New York,7
+2022-10-04,Los Angeles,11
+2022-10-04,São Paulo,14
+2022-10-04,Buenos Aires,6
+2022-10-04,Melbourne,9
+2022-10-04,Shanghai,11
+2022-10-04,Tokyo,11
+2022-10-04,Seoul,8
+2022-10-04,Johannesburg,7
+2022-10-05,Bangalore,15
+2022-10-05,Amsterdam,1
+2022-10-05,Warsaw,6
+2022-10-05,London,9
+2022-10-05,Paris,8
+2022-10-05,New York,4
+2022-10-05,Los Angeles,10
+2022-10-05,São Paulo,2
+2022-10-05,Buenos Aires,15
+2022-10-05,Melbourne,14
+2022-10-05,Shanghai,10
+2022-10-05,Tokyo,7
+2022-10-05,Seoul,10
+2022-10-05,Johannesburg,13
+2022-10-06,Bangalore,2
+2022-10-06,Amsterdam,14
+2022-10-06,Warsaw,8
+2022-10-06,London,9
+2022-10-06,Paris,6
+2022-10-06,New York,9
+2022-10-06,Los Angeles,18
+2022-10-06,São Paulo,6
+2022-10-06,Buenos Aires,12
+2022-10-06,Melbourne,15
+2022-10-06,Shanghai,10
+2022-10-06,Tokyo,16
+2022-10-06,Seoul,13
+2022-10-06,Johannesburg,10
+2022-10-07,Bangalore,7
+2022-10-07,Amsterdam,15
+2022-10-07,Warsaw,13
+2022-10-07,London,10
+2022-10-07,Paris,8
+2022-10-07,New York,6
+2022-10-07,Los Angeles,4
+2022-10-07,São Paulo,10
+2022-10-07,Buenos Aires,8
+2022-10-07,Melbourne,2
+2022-10-07,Shanghai,10
+2022-10-07,Tokyo,9
+2022-10-07,Seoul,11
+2022-10-07,Johannesburg,14
+2022-10-08,Bangalore,6
+2022-10-08,Amsterdam,14
+2022-10-08,Warsaw,3
+2022-10-08,London,9
+2022-10-08,Paris,12
+2022-10-08,New York,10
+2022-10-08,Los Angeles,13
+2022-10-08,São Paulo,7
+2022-10-08,Buenos Aires,7
+2022-10-08,Melbourne,12
+2022-10-08,Shanghai,1
+2022-10-08,Tokyo,12
+2022-10-08,Seoul,4
+2022-10-08,Johannesburg,5
+2022-10-09,Bangalore,5
+2022-10-09,Amsterdam,12
+2022-10-09,Warsaw,4
+2022-10-09,London,15
+2022-10-09,Paris,6
+2022-10-09,New York,17
+2022-10-09,Los Angeles,4
+2022-10-09,São Paulo,8
+2022-10-09,Buenos Aires,9
+2022-10-09,Melbourne,15
+2022-10-09,Shanghai,16
+2022-10-09,Tokyo,11
+2022-10-09,Seoul,16
+2022-10-09,Johannesburg,11
+2022-10-10,Bangalore,13
+2022-10-10,Amsterdam,1
+2022-10-10,Warsaw,7
+2022-10-10,London,5
+2022-10-10,Paris,5
+2022-10-10,New York,10
+2022-10-10,Los Angeles,7
+2022-10-10,São Paulo,16
+2022-10-10,Buenos Aires,4
+2022-10-10,Melbourne,17
+2022-10-10,Shanghai,4
+2022-10-10,Tokyo,8
+2022-10-10,Seoul,13
+2022-10-10,Johannesburg,7
+2022-10-11,Bangalore,5
+2022-10-11,Amsterdam,17
+2022-10-11,Warsaw,9
+2022-10-11,London,15
+2022-10-11,Paris,16
+2022-10-11,New York,7
+2022-10-11,Los Angeles,10
+2022-10-11,São Paulo,4
+2022-10-11,Buenos Aires,11
+2022-10-11,Melbourne,8
+2022-10-11,Shanghai,18
+2022-10-11,Tokyo,13
+2022-10-11,Seoul,19
+2022-10-11,Johannesburg,8
+2022-10-12,Bangalore,9
+2022-10-12,Amsterdam,15
+2022-10-12,Warsaw,18
+2022-10-12,London,7
+2022-10-12,Paris,8
+2022-10-12,New York,10
+2022-10-12,Los Angeles,9
+2022-10-12,São Paulo,6
+2022-10-12,Buenos Aires,12
+2022-10-12,Melbourne,8
+2022-10-12,Shanghai,4
+2022-10-12,Tokyo,6
+2022-10-12,Seoul,4
+2022-10-12,Johannesburg,3
+2022-10-13,Bangalore,7
+2022-10-13,Amsterdam,7
+2022-10-13,Warsaw,16
+2022-10-13,London,6
+2022-10-13,Paris,16
+2022-10-13,New York,9
+2022-10-13,Los Angeles,4
+2022-10-13,São Paulo,7
+2022-10-13,Buenos Aires,13
+2022-10-13,Melbourne,8
+2022-10-13,Shanghai,1
+2022-10-13,Tokyo,7
+2022-10-13,Seoul,15
+2022-10-13,Johannesburg,5
+2022-10-14,Bangalore,1
+2022-10-14,Amsterdam,12
+2022-10-14,Warsaw,9
+2022-10-14,London,10
+2022-10-14,Paris,3
+2022-10-14,New York,11
+2022-10-14,Los Angeles,7
+2022-10-14,São Paulo,9
+2022-10-14,Buenos Aires,8
+2022-10-14,Melbourne,15
+2022-10-14,Shanghai,7
+2022-10-14,Tokyo,11
+2022-10-14,Seoul,2
+2022-10-14,Johannesburg,10
+2022-10-15,Bangalore,10
+2022-10-15,Amsterdam,9
+2022-10-15,Warsaw,15
+2022-10-15,London,2
+2022-10-15,Paris,12
+2022-10-15,New York,12
+2022-10-15,Los Angeles,13
+2022-10-15,São Paulo,17
+2022-10-15,Buenos Aires,18
+2022-10-15,Melbourne,13
+2022-10-15,Shanghai,19
+2022-10-15,Tokyo,1
+2022-10-15,Seoul,10
+2022-10-15,Johannesburg,10
+2022-10-16,Bangalore,6
+2022-10-16,Amsterdam,10
+2022-10-16,Warsaw,8
+2022-10-16,London,14
+2022-10-16,Paris,4
+2022-10-16,New York,10
+2022-10-16,Los Angeles,7
+2022-10-16,São Paulo,13
+2022-10-16,Buenos Aires,15
+2022-10-16,Melbourne,16
+2022-10-16,Shanghai,14
+2022-10-16,Tokyo,2
+2022-10-16,Seoul,10
+2022-10-16,Johannesburg,12
+2022-10-17,Bangalore,2
+2022-10-17,Amsterdam,16
+2022-10-17,Warsaw,5
+2022-10-17,London,11
+2022-10-17,Paris,15
+2022-10-17,New York,13
+2022-10-17,Los Angeles,19
+2022-10-17,São Paulo,1
+2022-10-17,Buenos Aires,18
+2022-10-17,Melbourne,6
+2022-10-17,Shanghai,14
+2022-10-17,Tokyo,15
+2022-10-17,Seoul,17
+2022-10-17,Johannesburg,4
+2022-10-18,Bangalore,2
+2022-10-18,Amsterdam,9
+2022-10-18,Warsaw,14
+2022-10-18,London,13
+2022-10-18,Paris,12
+2022-10-18,New York,11
+2022-10-18,Los Angeles,15
+2022-10-18,São Paulo,7
+2022-10-18,Buenos Aires,9
+2022-10-18,Melbourne,10
+2022-10-18,Shanghai,14
+2022-10-18,Tokyo,11
+2022-10-18,Seoul,12
+2022-10-18,Johannesburg,6
+2022-10-19,Bangalore,13
+2022-10-19,Amsterdam,13
+2022-10-19,Warsaw,10
+2022-10-19,London,14
+2022-10-19,Paris,10
+2022-10-19,New York,2
+2022-10-19,Los Angeles,5
+2022-10-19,São Paulo,16
+2022-10-19,Buenos Aires,14
+2022-10-19,Melbourne,16
+2022-10-19,Shanghai,11
+2022-10-19,Tokyo,10
+2022-10-19,Seoul,16
+2022-10-19,Johannesburg,6
+2022-10-20,Bangalore,10
+2022-10-20,Amsterdam,14
+2022-10-20,Warsaw,1
+2022-10-20,London,9
+2022-10-20,Paris,6
+2022-10-20,New York,7
+2022-10-20,Los Angeles,9
+2022-10-20,São Paulo,9
+2022-10-20,Buenos Aires,11
+2022-10-20,Melbourne,9
+2022-10-20,Shanghai,10
+2022-10-20,Tokyo,10
+2022-10-20,Seoul,4
+2022-10-20,Johannesburg,10
+2022-10-21,Bangalore,4
+2022-10-21,Amsterdam,9
+2022-10-21,Warsaw,10
+2022-10-21,London,11
+2022-10-21,Paris,11
+2022-10-21,New York,14
+2022-10-21,Los Angeles,8
+2022-10-21,São Paulo,6
+2022-10-21,Buenos Aires,11
+2022-10-21,Melbourne,11
+2022-10-21,Shanghai,8
+2022-10-21,Tokyo,19
+2022-10-21,Seoul,13
+2022-10-21,Johannesburg,2
+2022-10-22,Bangalore,10
+2022-10-22,Amsterdam,20
+2022-10-22,Warsaw,10
+2022-10-22,London,1
+2022-10-22,Paris,10
+2022-10-22,New York,11
+2022-10-22,Los Angeles,5
+2022-10-22,São Paulo,8
+2022-10-22,Buenos Aires,22
+2022-10-22,Melbourne,7
+2022-10-22,Shanghai,15
+2022-10-22,Tokyo,1
+2022-10-22,Seoul,7
+2022-10-22,Johannesburg,17
+2022-10-23,Bangalore,13
+2022-10-23,Amsterdam,16
+2022-10-23,Warsaw,10
+2022-10-23,London,8
+2022-10-23,Paris,1
+2022-10-23,New York,4
+2022-10-23,Los Angeles,21
+2022-10-23,São Paulo,11
+2022-10-23,Buenos Aires,21
+2022-10-23,Melbourne,11
+2022-10-23,Shanghai,1
+2022-10-23,Tokyo,18
+2022-10-23,Seoul,9
+2022-10-23,Johannesburg,2
+2022-10-24,Bangalore,4
+2022-10-24,Amsterdam,16
+2022-10-24,Warsaw,14
+2022-10-24,London,9
+2022-10-24,Paris,10
+2022-10-24,New York,15
+2022-10-24,Los Angeles,3
+2022-10-24,São Paulo,2
+2022-10-24,Buenos Aires,14
+2022-10-24,Melbourne,13
+2022-10-24,Shanghai,15
+2022-10-24,Tokyo,9
+2022-10-24,Seoul,12
+2022-10-24,Johannesburg,2
+2022-10-25,Bangalore,14
+2022-10-25,Amsterdam,17
+2022-10-25,Warsaw,5
+2022-10-25,London,2
+2022-10-25,Paris,16
+2022-10-25,New York,12
+2022-10-25,Los Angeles,1
+2022-10-25,São Paulo,6
+2022-10-25,Buenos Aires,1
+2022-10-25,Melbourne,4
+2022-10-25,Shanghai,10
+2022-10-25,Tokyo,8
+2022-10-25,Seoul,6
+2022-10-25,Johannesburg,16
+2022-10-26,Bangalore,8
+2022-10-26,Amsterdam,11
+2022-10-26,Warsaw,1
+2022-10-26,London,7
+2022-10-26,Paris,7
+2022-10-26,New York,11
+2022-10-26,Los Angeles,8
+2022-10-26,São Paulo,6
+2022-10-26,Buenos Aires,16
+2022-10-26,Melbourne,9
+2022-10-26,Shanghai,7
+2022-10-26,Tokyo,18
+2022-10-26,Seoul,14
+2022-10-26,Johannesburg,14
+2022-10-27,Bangalore,8
+2022-10-27,Amsterdam,17
+2022-10-27,Warsaw,12
+2022-10-27,London,12
+2022-10-27,Paris,15
+2022-10-27,New York,3
+2022-10-27,Los Angeles,11
+2022-10-27,São Paulo,16
+2022-10-27,Buenos Aires,15
+2022-10-27,Melbourne,15
+2022-10-27,Shanghai,14
+2022-10-27,Tokyo,6
+2022-10-27,Seoul,7
+2022-10-27,Johannesburg,6
+2022-10-28,Bangalore,15
+2022-10-28,Amsterdam,12
+2022-10-28,Warsaw,14
+2022-10-28,London,14
+2022-10-28,Paris,15
+2022-10-28,New York,13
+2022-10-28,Los Angeles,14
+2022-10-28,São Paulo,2
+2022-10-28,Buenos Aires,12
+2022-10-28,Melbourne,13
+2022-10-28,Shanghai,15
+2022-10-28,Tokyo,8
+2022-10-28,Seoul,12
+2022-10-28,Johannesburg,10
+2022-10-29,Bangalore,13
+2022-10-29,Amsterdam,10
+2022-10-29,Warsaw,16
+2022-10-29,London,9
+2022-10-29,Paris,3
+2022-10-29,New York,11
+2022-10-29,Los Angeles,10
+2022-10-29,São Paulo,11
+2022-10-29,Buenos Aires,9
+2022-10-29,Melbourne,5
+2022-10-29,Shanghai,15
+2022-10-29,Tokyo,14
+2022-10-29,Seoul,9
+2022-10-29,Johannesburg,9
+2022-10-30,Bangalore,17
+2022-10-30,Amsterdam,5
+2022-10-30,Warsaw,1
+2022-10-30,London,8
+2022-10-30,Paris,7
+2022-10-30,New York,1
+2022-10-30,Los Angeles,12
+2022-10-30,São Paulo,1
+2022-10-30,Buenos Aires,2
+2022-10-30,Melbourne,5
+2022-10-30,Shanghai,8
+2022-10-30,Tokyo,18
+2022-10-30,Seoul,13
+2022-10-30,Johannesburg,15
+2022-10-31,Bangalore,12
+2022-10-31,Amsterdam,1
+2022-10-31,Warsaw,18
+2022-10-31,London,21
+2022-10-31,Paris,6
+2022-10-31,New York,17
+2022-10-31,Los Angeles,5
+2022-10-31,São Paulo,2
+2022-10-31,Buenos Aires,10
+2022-10-31,Melbourne,14
+2022-10-31,Shanghai,16
+2022-10-31,Tokyo,10
+2022-10-31,Seoul,11
+2022-10-31,Johannesburg,13
+2022-11-01,Bangalore,23
+2022-11-01,Amsterdam,1
+2022-11-01,Warsaw,21
+2022-11-01,London,4
+2022-11-01,Paris,6
+2022-11-01,New York,7
+2022-11-01,Los Angeles,13
+2022-11-01,São Paulo,11
+2022-11-01,Buenos Aires,16
+2022-11-01,Melbourne,23
+2022-11-01,Shanghai,10
+2022-11-01,Tokyo,18
+2022-11-01,Seoul,5
+2022-11-01,Johannesburg,11
+2022-11-02,Bangalore,1
+2022-11-02,Amsterdam,11
+2022-11-02,Warsaw,9
+2022-11-02,London,14
+2022-11-02,Paris,5
+2022-11-02,New York,1
+2022-11-02,Los Angeles,10
+2022-11-02,São Paulo,9
+2022-11-02,Buenos Aires,7
+2022-11-02,Melbourne,14
+2022-11-02,Shanghai,2
+2022-11-02,Tokyo,10
+2022-11-02,Seoul,8
+2022-11-02,Johannesburg,10
+2022-11-03,Bangalore,6
+2022-11-03,Amsterdam,8
+2022-11-03,Warsaw,9
+2022-11-03,London,4
+2022-11-03,Paris,21
+2022-11-03,New York,9
+2022-11-03,Los Angeles,9
+2022-11-03,São Paulo,15
+2022-11-03,Buenos Aires,6
+2022-11-03,Melbourne,15
+2022-11-03,Shanghai,5
+2022-11-03,Tokyo,9
+2022-11-03,Seoul,13
+2022-11-03,Johannesburg,8
+2022-11-04,Bangalore,7
+2022-11-04,Amsterdam,9
+2022-11-04,Warsaw,8
+2022-11-04,London,7
+2022-11-04,Paris,5
+2022-11-04,New York,16
+2022-11-04,Los Angeles,9
+2022-11-04,São Paulo,7
+2022-11-04,Buenos Aires,9
+2022-11-04,Melbourne,14
+2022-11-04,Shanghai,8
+2022-11-04,Tokyo,8
+2022-11-04,Seoul,3
+2022-11-04,Johannesburg,5
+2022-11-05,Bangalore,4
+2022-11-05,Amsterdam,12
+2022-11-05,Warsaw,11
+2022-11-05,London,9
+2022-11-05,Paris,16
+2022-11-05,New York,12
+2022-11-05,Los Angeles,7
+2022-11-05,São Paulo,2
+2022-11-05,Buenos Aires,6
+2022-11-05,Melbourne,2
+2022-11-05,Shanghai,10
+2022-11-05,Tokyo,12
+2022-11-05,Seoul,14
+2022-11-05,Johannesburg,10
+2022-11-06,Bangalore,14
+2022-11-06,Amsterdam,15
+2022-11-06,Warsaw,25
+2022-11-06,London,10
+2022-11-06,Paris,8
+2022-11-06,New York,5
+2022-11-06,Los Angeles,15
+2022-11-06,São Paulo,11
+2022-11-06,Buenos Aires,15
+2022-11-06,Melbourne,1
+2022-11-06,Shanghai,7
+2022-11-06,Tokyo,5
+2022-11-06,Seoul,2
+2022-11-06,Johannesburg,9
+2022-11-07,Bangalore,7
+2022-11-07,Amsterdam,10
+2022-11-07,Warsaw,11
+2022-11-07,London,14
+2022-11-07,Paris,3
+2022-11-07,New York,15
+2022-11-07,Los Angeles,12
+2022-11-07,São Paulo,5
+2022-11-07,Buenos Aires,7
+2022-11-07,Melbourne,9
+2022-11-07,Shanghai,10
+2022-11-07,Tokyo,11
+2022-11-07,Seoul,11
+2022-11-07,Johannesburg,3
+2022-11-08,Bangalore,12
+2022-11-08,Amsterdam,9
+2022-11-08,Warsaw,9
+2022-11-08,London,16
+2022-11-08,Paris,8
+2022-11-08,New York,6
+2022-11-08,Los Angeles,1
+2022-11-08,São Paulo,12
+2022-11-08,Buenos Aires,15
+2022-11-08,Melbourne,17
+2022-11-08,Shanghai,12
+2022-11-08,Tokyo,1
+2022-11-08,Seoul,1
+2022-11-08,Johannesburg,22
+2022-11-09,Bangalore,8
+2022-11-09,Amsterdam,12
+2022-11-09,Warsaw,5
+2022-11-09,London,8
+2022-11-09,Paris,3
+2022-11-09,New York,17
+2022-11-09,Los Angeles,11
+2022-11-09,São Paulo,8
+2022-11-09,Buenos Aires,10
+2022-11-09,Melbourne,12
+2022-11-09,Shanghai,13
+2022-11-09,Tokyo,12
+2022-11-09,Seoul,10
+2022-11-09,Johannesburg,1
+2022-11-10,Bangalore,15
+2022-11-10,Amsterdam,7
+2022-11-10,Warsaw,5
+2022-11-10,London,12
+2022-11-10,Paris,15
+2022-11-10,New York,6
+2022-11-10,Los Angeles,8
+2022-11-10,São Paulo,9
+2022-11-10,Buenos Aires,9
+2022-11-10,Melbourne,11
+2022-11-10,Shanghai,9
+2022-11-10,Tokyo,14
+2022-11-10,Seoul,11
+2022-11-10,Johannesburg,7
+2022-11-11,Bangalore,12
+2022-11-11,Amsterdam,11
+2022-11-11,Warsaw,5
+2022-11-11,London,3
+2022-11-11,Paris,14
+2022-11-11,New York,11
+2022-11-11,Los Angeles,17
+2022-11-11,São Paulo,13
+2022-11-11,Buenos Aires,11
+2022-11-11,Melbourne,5
+2022-11-11,Shanghai,6
+2022-11-11,Tokyo,11
+2022-11-11,Seoul,10
+2022-11-11,Johannesburg,5
+2022-11-12,Bangalore,8
+2022-11-12,Amsterdam,19
+2022-11-12,Warsaw,2
+2022-11-12,London,2
+2022-11-12,Paris,10
+2022-11-12,New York,18
+2022-11-12,Los Angeles,3
+2022-11-12,São Paulo,21
+2022-11-12,Buenos Aires,18
+2022-11-12,Melbourne,15
+2022-11-12,Shanghai,2
+2022-11-12,Tokyo,4
+2022-11-12,Seoul,2
+2022-11-12,Johannesburg,3
+2022-11-13,Bangalore,6
+2022-11-13,Amsterdam,6
+2022-11-13,Warsaw,15
+2022-11-13,London,16
+2022-11-13,Paris,20
+2022-11-13,New York,17
+2022-11-13,Los Angeles,14
+2022-11-13,São Paulo,14
+2022-11-13,Buenos Aires,13
+2022-11-13,Melbourne,12
+2022-11-13,Shanghai,15
+2022-11-13,Tokyo,19
+2022-11-13,Seoul,1
+2022-11-13,Johannesburg,7
+2022-11-14,Bangalore,11
+2022-11-14,Amsterdam,8
+2022-11-14,Warsaw,17
+2022-11-14,London,5
+2022-11-14,Paris,5
+2022-11-14,New York,6
+2022-11-14,Los Angeles,1
+2022-11-14,São Paulo,7
+2022-11-14,Buenos Aires,11
+2022-11-14,Melbourne,5
+2022-11-14,Shanghai,11
+2022-11-14,Tokyo,13
+2022-11-14,Seoul,7
+2022-11-14,Johannesburg,5
+2022-11-15,Bangalore,14
+2022-11-15,Amsterdam,11
+2022-11-15,Warsaw,6
+2022-11-15,London,12
+2022-11-15,Paris,11
+2022-11-15,New York,15
+2022-11-15,Los Angeles,14
+2022-11-15,São Paulo,8
+2022-11-15,Buenos Aires,8
+2022-11-15,Melbourne,2
+2022-11-15,Shanghai,15
+2022-11-15,Tokyo,22
+2022-11-15,Seoul,4
+2022-11-15,Johannesburg,11
+2022-11-16,Bangalore,9
+2022-11-16,Amsterdam,11
+2022-11-16,Warsaw,4
+2022-11-16,London,3
+2022-11-16,Paris,14
+2022-11-16,New York,6
+2022-11-16,Los Angeles,5
+2022-11-16,São Paulo,4
+2022-11-16,Buenos Aires,8
+2022-11-16,Melbourne,11
+2022-11-16,Shanghai,16
+2022-11-16,Tokyo,17
+2022-11-16,Seoul,7
+2022-11-16,Johannesburg,5
+2022-11-17,Bangalore,6
+2022-11-17,Amsterdam,10
+2022-11-17,Warsaw,5
+2022-11-17,London,17
+2022-11-17,Paris,5
+2022-11-17,New York,10
+2022-11-17,Los Angeles,8
+2022-11-17,São Paulo,8
+2022-11-17,Buenos Aires,10
+2022-11-17,Melbourne,10
+2022-11-17,Shanghai,8
+2022-11-17,Tokyo,8
+2022-11-17,Seoul,17
+2022-11-17,Johannesburg,5
+2022-11-18,Bangalore,6
+2022-11-18,Amsterdam,10
+2022-11-18,Warsaw,9
+2022-11-18,London,5
+2022-11-18,Paris,8
+2022-11-18,New York,1
+2022-11-18,Los Angeles,5
+2022-11-18,São Paulo,11
+2022-11-18,Buenos Aires,7
+2022-11-18,Melbourne,11
+2022-11-18,Shanghai,9
+2022-11-18,Tokyo,1
+2022-11-18,Seoul,20
+2022-11-18,Johannesburg,10
+2022-11-19,Bangalore,18
+2022-11-19,Amsterdam,16
+2022-11-19,Warsaw,8
+2022-11-19,London,7
+2022-11-19,Paris,15
+2022-11-19,New York,12
+2022-11-19,Los Angeles,13
+2022-11-19,São Paulo,7
+2022-11-19,Buenos Aires,21
+2022-11-19,Melbourne,8
+2022-11-19,Shanghai,9
+2022-11-19,Tokyo,12
+2022-11-19,Seoul,14
+2022-11-19,Johannesburg,12
+2022-11-20,Bangalore,8
+2022-11-20,Amsterdam,13
+2022-11-20,Warsaw,19
+2022-11-20,London,1
+2022-11-20,Paris,7
+2022-11-20,New York,9
+2022-11-20,Los Angeles,11
+2022-11-20,São Paulo,17
+2022-11-20,Buenos Aires,13
+2022-11-20,Melbourne,11
+2022-11-20,Shanghai,10
+2022-11-20,Tokyo,12
+2022-11-20,Seoul,13
+2022-11-20,Johannesburg,15
+2022-11-21,Bangalore,9
+2022-11-21,Amsterdam,11
+2022-11-21,Warsaw,7
+2022-11-21,London,11
+2022-11-21,Paris,7
+2022-11-21,New York,8
+2022-11-21,Los Angeles,4
+2022-11-21,São Paulo,6
+2022-11-21,Buenos Aires,15
+2022-11-21,Melbourne,12
+2022-11-21,Shanghai,3
+2022-11-21,Tokyo,18
+2022-11-21,Seoul,15
+2022-11-21,Johannesburg,14
+2022-11-22,Bangalore,11
+2022-11-22,Amsterdam,16
+2022-11-22,Warsaw,17
+2022-11-22,London,17
+2022-11-22,Paris,7
+2022-11-22,New York,13
+2022-11-22,Los Angeles,11
+2022-11-22,São Paulo,10
+2022-11-22,Buenos Aires,12
+2022-11-22,Melbourne,11
+2022-11-22,Shanghai,10
+2022-11-22,Tokyo,11
+2022-11-22,Seoul,11
+2022-11-22,Johannesburg,11
+2022-11-23,Bangalore,8
+2022-11-23,Amsterdam,8
+2022-11-23,Warsaw,8
+2022-11-23,London,8
+2022-11-23,Paris,18
+2022-11-23,New York,7
+2022-11-23,Los Angeles,5
+2022-11-23,São Paulo,13
+2022-11-23,Buenos Aires,10
+2022-11-23,Melbourne,19
+2022-11-23,Shanghai,11
+2022-11-23,Tokyo,13
+2022-11-23,Seoul,4
+2022-11-23,Johannesburg,7
+2022-11-24,Bangalore,7
+2022-11-24,Amsterdam,5
+2022-11-24,Warsaw,3
+2022-11-24,London,13
+2022-11-24,Paris,9
+2022-11-24,New York,11
+2022-11-24,Los Angeles,15
+2022-11-24,São Paulo,5
+2022-11-24,Buenos Aires,6
+2022-11-24,Melbourne,18
+2022-11-24,Shanghai,10
+2022-11-24,Tokyo,6
+2022-11-24,Seoul,4
+2022-11-24,Johannesburg,10
+2022-11-25,Bangalore,7
+2022-11-25,Amsterdam,8
+2022-11-25,Warsaw,16
+2022-11-25,London,7
+2022-11-25,Paris,13
+2022-11-25,New York,7
+2022-11-25,Los Angeles,5
+2022-11-25,São Paulo,1
+2022-11-25,Buenos Aires,6
+2022-11-25,Melbourne,11
+2022-11-25,Shanghai,10
+2022-11-25,Tokyo,8
+2022-11-25,Seoul,5
+2022-11-25,Johannesburg,7
+2022-11-26,Bangalore,15
+2022-11-26,Amsterdam,6
+2022-11-26,Warsaw,13
+2022-11-26,London,15
+2022-11-26,Paris,7
+2022-11-26,New York,16
+2022-11-26,Los Angeles,1
+2022-11-26,São Paulo,9
+2022-11-26,Buenos Aires,18
+2022-11-26,Melbourne,13
+2022-11-26,Shanghai,21
+2022-11-26,Tokyo,17
+2022-11-26,Seoul,7
+2022-11-26,Johannesburg,13
+2022-11-27,Bangalore,13
+2022-11-27,Amsterdam,14
+2022-11-27,Warsaw,15
+2022-11-27,London,3
+2022-11-27,Paris,11
+2022-11-27,New York,9
+2022-11-27,Los Angeles,17
+2022-11-27,São Paulo,10
+2022-11-27,Buenos Aires,13
+2022-11-27,Melbourne,1
+2022-11-27,Shanghai,1
+2022-11-27,Tokyo,12
+2022-11-27,Seoul,6
+2022-11-27,Johannesburg,9
+2022-11-28,Bangalore,16
+2022-11-28,Amsterdam,7
+2022-11-28,Warsaw,13
+2022-11-28,London,5
+2022-11-28,Paris,18
+2022-11-28,New York,15
+2022-11-28,Los Angeles,12
+2022-11-28,São Paulo,8
+2022-11-28,Buenos Aires,13
+2022-11-28,Melbourne,10
+2022-11-28,Shanghai,4
+2022-11-28,Tokyo,8
+2022-11-28,Seoul,5
+2022-11-28,Johannesburg,8
+2022-11-29,Bangalore,6
+2022-11-29,Amsterdam,4
+2022-11-29,Warsaw,10
+2022-11-29,London,14
+2022-11-29,Paris,18
+2022-11-29,New York,1
+2022-11-29,Los Angeles,4
+2022-11-29,São Paulo,11
+2022-11-29,Buenos Aires,2
+2022-11-29,Melbourne,11
+2022-11-29,Shanghai,14
+2022-11-29,Tokyo,12
+2022-11-29,Seoul,14
+2022-11-29,Johannesburg,14
+2022-11-30,Bangalore,13
+2022-11-30,Amsterdam,13
+2022-11-30,Warsaw,17
+2022-11-30,London,16
+2022-11-30,Paris,12
+2022-11-30,New York,3
+2022-11-30,Los Angeles,11
+2022-11-30,São Paulo,6
+2022-11-30,Buenos Aires,12
+2022-11-30,Melbourne,5
+2022-11-30,Shanghai,14
+2022-11-30,Tokyo,12
+2022-11-30,Seoul,12
+2022-11-30,Johannesburg,9
+2022-12-01,Bangalore,2
+2022-12-01,Amsterdam,1
+2022-12-01,Warsaw,10
+2022-12-01,London,17
+2022-12-01,Paris,12
+2022-12-01,New York,17
+2022-12-01,Los Angeles,4
+2022-12-01,São Paulo,4
+2022-12-01,Buenos Aires,7
+2022-12-01,Melbourne,13
+2022-12-01,Shanghai,9
+2022-12-01,Tokyo,1
+2022-12-01,Seoul,3
+2022-12-01,Johannesburg,16
+2022-12-02,Bangalore,6
+2022-12-02,Amsterdam,17
+2022-12-02,Warsaw,3
+2022-12-02,London,12
+2022-12-02,Paris,11
+2022-12-02,New York,5
+2022-12-02,Los Angeles,8
+2022-12-02,São Paulo,14
+2022-12-02,Buenos Aires,5
+2022-12-02,Melbourne,16
+2022-12-02,Shanghai,6
+2022-12-02,Tokyo,1
+2022-12-02,Seoul,2
+2022-12-02,Johannesburg,18
+2022-12-03,Bangalore,9
+2022-12-03,Amsterdam,7
+2022-12-03,Warsaw,14
+2022-12-03,London,9
+2022-12-03,Paris,6
+2022-12-03,New York,10
+2022-12-03,Los Angeles,8
+2022-12-03,São Paulo,21
+2022-12-03,Buenos Aires,17
+2022-12-03,Melbourne,7
+2022-12-03,Shanghai,10
+2022-12-03,Tokyo,7
+2022-12-03,Seoul,7
+2022-12-03,Johannesburg,1
+2022-12-04,Bangalore,11
+2022-12-04,Amsterdam,6
+2022-12-04,Warsaw,15
+2022-12-04,London,2
+2022-12-04,Paris,6
+2022-12-04,New York,6
+2022-12-04,Los Angeles,9
+2022-12-04,São Paulo,15
+2022-12-04,Buenos Aires,9
+2022-12-04,Melbourne,13
+2022-12-04,Shanghai,4
+2022-12-04,Tokyo,20
+2022-12-04,Seoul,12
+2022-12-04,Johannesburg,1
+2022-12-05,Bangalore,8
+2022-12-05,Amsterdam,8
+2022-12-05,Warsaw,8
+2022-12-05,London,6
+2022-12-05,Paris,13
+2022-12-05,New York,8
+2022-12-05,Los Angeles,8
+2022-12-05,São Paulo,14
+2022-12-05,Buenos Aires,15
+2022-12-05,Melbourne,7
+2022-12-05,Shanghai,8
+2022-12-05,Tokyo,7
+2022-12-05,Seoul,4
+2022-12-05,Johannesburg,7
+2022-12-06,Bangalore,1
+2022-12-06,Amsterdam,11
+2022-12-06,Warsaw,10
+2022-12-06,London,10
+2022-12-06,Paris,11
+2022-12-06,New York,13
+2022-12-06,Los Angeles,3
+2022-12-06,São Paulo,20
+2022-12-06,Buenos Aires,7
+2022-12-06,Melbourne,18
+2022-12-06,Shanghai,9
+2022-12-06,Tokyo,4
+2022-12-06,Seoul,15
+2022-12-06,Johannesburg,13
+2022-12-07,Bangalore,13
+2022-12-07,Amsterdam,7
+2022-12-07,Warsaw,13
+2022-12-07,London,9
+2022-12-07,Paris,24
+2022-12-07,New York,6
+2022-12-07,Los Angeles,4
+2022-12-07,São Paulo,18
+2022-12-07,Buenos Aires,11
+2022-12-07,Melbourne,13
+2022-12-07,Shanghai,12
+2022-12-07,Tokyo,6
+2022-12-07,Seoul,9
+2022-12-07,Johannesburg,9
+2022-12-08,Bangalore,13
+2022-12-08,Amsterdam,5
+2022-12-08,Warsaw,7
+2022-12-08,London,16
+2022-12-08,Paris,7
+2022-12-08,New York,7
+2022-12-08,Los Angeles,14
+2022-12-08,São Paulo,14
+2022-12-08,Buenos Aires,8
+2022-12-08,Melbourne,9
+2022-12-08,Shanghai,5
+2022-12-08,Tokyo,9
+2022-12-08,Seoul,1
+2022-12-08,Johannesburg,1
+2022-12-09,Bangalore,7
+2022-12-09,Amsterdam,5
+2022-12-09,Warsaw,7
+2022-12-09,London,6
+2022-12-09,Paris,15
+2022-12-09,New York,15
+2022-12-09,Los Angeles,16
+2022-12-09,São Paulo,15
+2022-12-09,Buenos Aires,10
+2022-12-09,Melbourne,3
+2022-12-09,Shanghai,9
+2022-12-09,Tokyo,12
+2022-12-09,Seoul,11
+2022-12-09,Johannesburg,11
+2022-12-10,Bangalore,15
+2022-12-10,Amsterdam,11
+2022-12-10,Warsaw,6
+2022-12-10,London,5
+2022-12-10,Paris,13
+2022-12-10,New York,8
+2022-12-10,Los Angeles,13
+2022-12-10,São Paulo,11
+2022-12-10,Buenos Aires,4
+2022-12-10,Melbourne,17
+2022-12-10,Shanghai,9
+2022-12-10,Tokyo,11
+2022-12-10,Seoul,10
+2022-12-10,Johannesburg,11
+2022-12-11,Bangalore,9
+2022-12-11,Amsterdam,8
+2022-12-11,Warsaw,11
+2022-12-11,London,15
+2022-12-11,Paris,3
+2022-12-11,New York,9
+2022-12-11,Los Angeles,7
+2022-12-11,São Paulo,1
+2022-12-11,Buenos Aires,15
+2022-12-11,Melbourne,5
+2022-12-11,Shanghai,1
+2022-12-11,Tokyo,6
+2022-12-11,Seoul,5
+2022-12-11,Johannesburg,20
+2022-12-12,Bangalore,12
+2022-12-12,Amsterdam,6
+2022-12-12,Warsaw,7
+2022-12-12,London,5
+2022-12-12,Paris,17
+2022-12-12,New York,7
+2022-12-12,Los Angeles,9
+2022-12-12,São Paulo,16
+2022-12-12,Buenos Aires,5
+2022-12-12,Melbourne,9
+2022-12-12,Shanghai,10
+2022-12-12,Tokyo,5
+2022-12-12,Seoul,4
+2022-12-12,Johannesburg,6
+2022-12-13,Bangalore,10
+2022-12-13,Amsterdam,9
+2022-12-13,Warsaw,12
+2022-12-13,London,14
+2022-12-13,Paris,14
+2022-12-13,New York,7
+2022-12-13,Los Angeles,15
+2022-12-13,São Paulo,5
+2022-12-13,Buenos Aires,12
+2022-12-13,Melbourne,4
+2022-12-13,Shanghai,12
+2022-12-13,Tokyo,12
+2022-12-13,Seoul,7
+2022-12-13,Johannesburg,10
+2022-12-14,Bangalore,9
+2022-12-14,Amsterdam,15
+2022-12-14,Warsaw,7
+2022-12-14,London,13
+2022-12-14,Paris,16
+2022-12-14,New York,10
+2022-12-14,Los Angeles,1
+2022-12-14,São Paulo,11
+2022-12-14,Buenos Aires,4
+2022-12-14,Melbourne,11
+2022-12-14,Shanghai,1
+2022-12-14,Tokyo,6
+2022-12-14,Seoul,8
+2022-12-14,Johannesburg,6
+2022-12-15,Bangalore,21
+2022-12-15,Amsterdam,11
+2022-12-15,Warsaw,10
+2022-12-15,London,16
+2022-12-15,Paris,3
+2022-12-15,New York,13
+2022-12-15,Los Angeles,9
+2022-12-15,São Paulo,13
+2022-12-15,Buenos Aires,2
+2022-12-15,Melbourne,10
+2022-12-15,Shanghai,3
+2022-12-15,Tokyo,12
+2022-12-15,Seoul,9
+2022-12-15,Johannesburg,7
+2022-12-16,Bangalore,9
+2022-12-16,Amsterdam,11
+2022-12-16,Warsaw,11
+2022-12-16,London,15
+2022-12-16,Paris,6
+2022-12-16,New York,12
+2022-12-16,Los Angeles,12
+2022-12-16,São Paulo,7
+2022-12-16,Buenos Aires,18
+2022-12-16,Melbourne,4
+2022-12-16,Shanghai,7
+2022-12-16,Tokyo,16
+2022-12-16,Seoul,1
+2022-12-16,Johannesburg,7
+2022-12-17,Bangalore,3
+2022-12-17,Amsterdam,22
+2022-12-17,Warsaw,6
+2022-12-17,London,11
+2022-12-17,Paris,8
+2022-12-17,New York,1
+2022-12-17,Los Angeles,13
+2022-12-17,São Paulo,8
+2022-12-17,Buenos Aires,11
+2022-12-17,Melbourne,10
+2022-12-17,Shanghai,4
+2022-12-17,Tokyo,7
+2022-12-17,Seoul,9
+2022-12-17,Johannesburg,23
+2022-12-18,Bangalore,13
+2022-12-18,Amsterdam,4
+2022-12-18,Warsaw,11
+2022-12-18,London,17
+2022-12-18,Paris,6
+2022-12-18,New York,13
+2022-12-18,Los Angeles,6
+2022-12-18,São Paulo,7
+2022-12-18,Buenos Aires,5
+2022-12-18,Melbourne,6
+2022-12-18,Shanghai,10
+2022-12-18,Tokyo,7
+2022-12-18,Seoul,5
+2022-12-18,Johannesburg,4
+2022-12-19,Bangalore,16
+2022-12-19,Amsterdam,10
+2022-12-19,Warsaw,9
+2022-12-19,London,9
+2022-12-19,Paris,14
+2022-12-19,New York,19
+2022-12-19,Los Angeles,19
+2022-12-19,São Paulo,1
+2022-12-19,Buenos Aires,1
+2022-12-19,Melbourne,2
+2022-12-19,Shanghai,1
+2022-12-19,Tokyo,9
+2022-12-19,Seoul,13
+2022-12-19,Johannesburg,1
+2022-12-20,Bangalore,10
+2022-12-20,Amsterdam,15
+2022-12-20,Warsaw,16
+2022-12-20,London,13
+2022-12-20,Paris,9
+2022-12-20,New York,5
+2022-12-20,Los Angeles,4
+2022-12-20,São Paulo,15
+2022-12-20,Buenos Aires,3
+2022-12-20,Melbourne,9
+2022-12-20,Shanghai,14
+2022-12-20,Tokyo,10
+2022-12-20,Seoul,9
+2022-12-20,Johannesburg,7
+2022-12-21,Bangalore,13
+2022-12-21,Amsterdam,11
+2022-12-21,Warsaw,9
+2022-12-21,London,1
+2022-12-21,Paris,13
+2022-12-21,New York,4
+2022-12-21,Los Angeles,6
+2022-12-21,São Paulo,8
+2022-12-21,Buenos Aires,11
+2022-12-21,Melbourne,17
+2022-12-21,Shanghai,9
+2022-12-21,Tokyo,9
+2022-12-21,Seoul,10
+2022-12-21,Johannesburg,6
+2022-12-22,Bangalore,17
+2022-12-22,Amsterdam,3
+2022-12-22,Warsaw,1
+2022-12-22,London,13
+2022-12-22,Paris,8
+2022-12-22,New York,14
+2022-12-22,Los Angeles,1
+2022-12-22,São Paulo,5
+2022-12-22,Buenos Aires,7
+2022-12-22,Melbourne,10
+2022-12-22,Shanghai,7
+2022-12-22,Tokyo,4
+2022-12-22,Seoul,15
+2022-12-22,Johannesburg,1
+2022-12-23,Bangalore,11
+2022-12-23,Amsterdam,4
+2022-12-23,Warsaw,7
+2022-12-23,London,10
+2022-12-23,Paris,15
+2022-12-23,New York,18
+2022-12-23,Los Angeles,10
+2022-12-23,São Paulo,14
+2022-12-23,Buenos Aires,3
+2022-12-23,Melbourne,10
+2022-12-23,Shanghai,10
+2022-12-23,Tokyo,16
+2022-12-23,Seoul,8
+2022-12-23,Johannesburg,7
+2022-12-24,Bangalore,13
+2022-12-24,Amsterdam,6
+2022-12-24,Warsaw,8
+2022-12-24,London,14
+2022-12-24,Paris,15
+2022-12-24,New York,11
+2022-12-24,Los Angeles,5
+2022-12-24,São Paulo,11
+2022-12-24,Buenos Aires,15
+2022-12-24,Melbourne,6
+2022-12-24,Shanghai,1
+2022-12-24,Tokyo,10
+2022-12-24,Seoul,3
+2022-12-24,Johannesburg,3
+2022-12-25,Bangalore,12
+2022-12-25,Amsterdam,15
+2022-12-25,Warsaw,11
+2022-12-25,London,8
+2022-12-25,Paris,12
+2022-12-25,New York,7
+2022-12-25,Los Angeles,13
+2022-12-25,São Paulo,1
+2022-12-25,Buenos Aires,6
+2022-12-25,Melbourne,1
+2022-12-25,Shanghai,19
+2022-12-25,Tokyo,8
+2022-12-25,Seoul,2
+2022-12-25,Johannesburg,5
+2022-12-26,Bangalore,15
+2022-12-26,Amsterdam,12
+2022-12-26,Warsaw,13
+2022-12-26,London,11
+2022-12-26,Paris,16
+2022-12-26,New York,16
+2022-12-26,Los Angeles,15
+2022-12-26,São Paulo,5
+2022-12-26,Buenos Aires,8
+2022-12-26,Melbourne,5
+2022-12-26,Shanghai,12
+2022-12-26,Tokyo,13
+2022-12-26,Seoul,23
+2022-12-26,Johannesburg,3
+2022-12-27,Bangalore,17
+2022-12-27,Amsterdam,13
+2022-12-27,Warsaw,4
+2022-12-27,London,1
+2022-12-27,Paris,6
+2022-12-27,New York,18
+2022-12-27,Los Angeles,5
+2022-12-27,São Paulo,8
+2022-12-27,Buenos Aires,5
+2022-12-27,Melbourne,11
+2022-12-27,Shanghai,9
+2022-12-27,Tokyo,11
+2022-12-27,Seoul,12
+2022-12-27,Johannesburg,4
+2022-12-28,Bangalore,8
+2022-12-28,Amsterdam,12
+2022-12-28,Warsaw,6
+2022-12-28,London,18
+2022-12-28,Paris,9
+2022-12-28,New York,10
+2022-12-28,Los Angeles,9
+2022-12-28,São Paulo,10
+2022-12-28,Buenos Aires,25
+2022-12-28,Melbourne,1
+2022-12-28,Shanghai,7
+2022-12-28,Tokyo,6
+2022-12-28,Seoul,2
+2022-12-28,Johannesburg,5
+2022-12-29,Bangalore,13
+2022-12-29,Amsterdam,12
+2022-12-29,Warsaw,10
+2022-12-29,London,11
+2022-12-29,Paris,20
+2022-12-29,New York,7
+2022-12-29,Los Angeles,4
+2022-12-29,São Paulo,6
+2022-12-29,Buenos Aires,17
+2022-12-29,Melbourne,12
+2022-12-29,Shanghai,17
+2022-12-29,Tokyo,12
+2022-12-29,Seoul,5
+2022-12-29,Johannesburg,7
+2022-12-30,Bangalore,9
+2022-12-30,Amsterdam,14
+2022-12-30,Warsaw,9
+2022-12-30,London,9
+2022-12-30,Paris,21
+2022-12-30,New York,9
+2022-12-30,Los Angeles,7
+2022-12-30,São Paulo,11
+2022-12-30,Buenos Aires,12
+2022-12-30,Melbourne,8
+2022-12-30,Shanghai,11
+2022-12-30,Tokyo,12
+2022-12-30,Seoul,4
+2022-12-30,Johannesburg,12
+2022-12-31,Bangalore,3
+2022-12-31,Amsterdam,4
+2022-12-31,Warsaw,5
+2022-12-31,London,13
+2022-12-31,Paris,12
+2022-12-31,New York,15
+2022-12-31,Los Angeles,16
+2022-12-31,São Paulo,11
+2022-12-31,Buenos Aires,14
+2022-12-31,Melbourne,1
+2022-12-31,Shanghai,12
+2022-12-31,Tokyo,9
+2022-12-31,Seoul,16
+2022-12-31,Johannesburg,10
