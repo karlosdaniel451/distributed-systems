@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option go_package = "./protobuf";
+
+service CalculatorService {
+    rpc Sum(CalculatorRequest) returns (Result);
+    rpc Subtract(CalculatorRequest) returns (Result);
+    rpc Multiply(CalculatorRequest) returns (Result);
+    rpc Divide(CalculatorRequest) returns (Result);
+}
+
+message CalculatorRequest {
+    double operand1 = 1;
+    double operand2 = 2;
+}
+
+message Result {
+    double value = 1;
+}

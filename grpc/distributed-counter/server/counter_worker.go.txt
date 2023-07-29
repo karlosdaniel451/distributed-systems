@@ -1,0 +1,36 @@
+package server
+
+import (
+	"context"
+	"distributed-counter/protobuf"
+)
+
+var (
+	IncrementChan = make(chan struct{})
+	DecrementChan= make(chan struct{})
+	GetValueChan = make(chan struct{})
+)
+
+func StartCounterWorker(ctx context.Context) {
+	counterWorker(ctx, IncrementChan, DecrementChan, GetValueChan)
+}
+
+func counterWorker(
+	ctx context.Context,
+	incrementChan,
+	decrementChan,
+	getValueChan chan struct{},
+) *protobuf.Counter {
+
+	counter := protobuf.Counter{}
+	for {
+		select {
+		case <-ctx.Done():
+			break
+		case <-incrementChan:
+			counter.Value++
+		case <-decrementChan:
+			counter.Value-- 
+		}
+	}
+}

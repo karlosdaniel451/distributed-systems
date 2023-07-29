@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option go_package = "./protobuf";
+
+service DistributedCounterService {
+    // Increment the counter value by 1 and return its value after such operation.
+    rpc Increment(IncrementRequest) returns (Counter);
+
+    // Decrement the counter value by 1 and return its value after such operation.
+    rpc Decrement(DecrementRequest) returns (Counter);
+
+    // Return the counter value.
+    rpc GetCounter(GetCounterRequest) returns (Counter);
+}
+
+message GetCounterRequest {}
+
+message Counter {
+    int64 Value = 1;
+}
+
+message IncrementRequest {
+    // uint64 IncrementValue = 1;
+}
+
+message DecrementRequest {
+    // uint64 DecrementValue = 1;
+}
